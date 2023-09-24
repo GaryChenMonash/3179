@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+</head>
+<body>
+  <!-- Container for import_2012 map -->
+  <div id="import_2012"></div>
+
+  <!-- Container for import_2021 map -->
+  <div id="import_2021"></div>
+
+  <script>
+    // Embed import_2012 map
+    vegaEmbed('#import_2012', 'js/Import_2012.json').then(function(result) {
+      // Access the Vega view instance (result.view) or handle other actions
+    }).catch(console.error);
+
+    // Embed import_2021 map
+    vegaEmbed('#import_2021', 'js/Import_2021.json').then(function(result) {
+      // Access the Vega view instance (result.view) or handle other actions
+    }).catch(console.error);
+  </script>
+</body>
+</html>
