@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "title": "Australian Import Status 2012",
+  "projection": {"type": "equalEarth"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/js/ne_110m.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "layer": [
+    {
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+      "encoding": {
+        "tooltip": [
+          {"field": "note", "type": "nominal", "title": "Note"},
+          {"field": "properties.NAME", "type": "nominal", "title": "Country"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/js/ne_110m.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+    },
+    {
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/3179a2data/Origins-2012---Click-to-Select-a-Country.csv"
+            },
+            "key": "Country",
+            "fields": ["Trade Value"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "color": {
+          "field": "Trade Value",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 100000, 10000000, 100000000, 1000000000, 10000000000],
+            "scheme": "tealblues"
+          }
+        },
+        "tooltip": [
+          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+          {
+            "field": "Trade Value",
+            "type": "quantitative",
+            "title": "Trade Value"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
