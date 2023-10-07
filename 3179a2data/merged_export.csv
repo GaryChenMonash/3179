@@ -1,0 +1,2126 @@
+Year,Continent,Country,Trade Value
+2012,Africa,Angola,13710387
+2012,Africa,Burundi,357465
+2012,Africa,Benin,1620531
+2012,Africa,Burkina Faso,32538117
+2012,Africa,Botswana,13742953
+2012,Africa,Central African Republic,33748
+2012,Africa,Cote d'Ivoire,18977213
+2012,Africa,Cameroon,3997714
+2012,Africa,Democratic Republic of the Congo,7132278
+2012,Africa,Republic of the Congo,6183599
+2012,Africa,Comoros,211673
+2012,Africa,Cape Verde,12337
+2012,Africa,Djibouti,3720694
+2012,Africa,Algeria,18582648
+2012,Africa,Egypt,661592798
+2012,Africa,Eritrea,1669964
+2012,Africa,Ethiopia,17527557
+2012,Africa,Gabon,3241903
+2012,Africa,Ghana,210852804
+2012,Africa,Guinea,18414578
+2012,Africa,Gambia,157560
+2012,Africa,Equatorial Guinea,657926
+2012,Africa,Kenya,46854311
+2012,Africa,Liberia,2355525
+2012,Africa,Libya,23985894
+2012,Africa,Lesotho,317264
+2012,Africa,Morocco,35795915
+2012,Africa,Madagascar,21063772
+2012,Africa,Mali,39711217
+2012,Africa,Mozambique,56956546
+2012,Africa,Mauritania,25218516
+2012,Africa,Mauritius,133425170
+2012,Africa,Malawi,8855178
+2012,Africa,Namibia,19272928
+2012,Africa,Niger,4545681
+2012,Africa,Nigeria,355942118
+2012,Africa,Rwanda,4190994
+2012,Africa,Sudan,313414238
+2012,Africa,Senegal,90205957
+2012,Africa,Saint Helena,105862
+2012,Africa,Sierra Leone,10393485
+2012,Africa,Somalia,62134
+2012,Africa,South Sudan,192396
+2012,Africa,Eswatini,734490
+2012,Africa,Seychelles,27977735
+2012,Africa,Chad,316348
+2012,Africa,Togo,3221958
+2012,Africa,Tunisia,19019555
+2012,Africa,Tanzania,113261661
+2012,Africa,Uganda,4421654
+2012,Africa,South Africa,1609398485
+2012,Africa,Zambia,56310530
+2012,Africa,Zimbabwe,11580861
+2012,Asia,Afghanistan,8683918
+2012,Asia,United Arab Emirates,2256434709
+2012,Asia,Armenia,4219398
+2012,Asia,Azerbaijan,20230743
+2012,Asia,Bangladesh,520961595
+2012,Asia,Bahrain,456159190
+2012,Asia,Brunei,47690372
+2012,Asia,Bhutan,789913
+2012,Asia,Cocos (Keeling) Islands,14799995
+2012,Asia,China,75165653080
+2012,Asia,Christmas Island,36291176
+2012,Asia,Cyprus,7103918
+2012,Asia,Georgia,25027155
+2012,Asia,Hong Kong,3508896731
+2012,Asia,Indonesia,5067640256
+2012,Asia,India,15925150243
+2012,Asia,Iran,424417807
+2012,Asia,Iraq,170576007
+2012,Asia,Israel,255940635
+2012,Asia,Jordan,195902189
+2012,Asia,Japan,50955152456
+2012,Asia,Kazakhstan,74027808
+2012,Asia,Kyrgyzstan,5567545
+2012,Asia,Cambodia,33650998
+2012,Asia,South Korea,21083685947
+2012,Asia,Kuwait,473225610
+2012,Asia,Laos,26846152
+2012,Asia,Lebanon,44139354
+2012,Asia,Sri Lanka,231742721
+2012,Asia,Macau,57374580
+2012,Asia,Maldives,28428025
+2012,Asia,Burma,139084558
+2012,Asia,Mongolia,34087610
+2012,Asia,Malaysia,5442559648
+2012,Asia,Nepal,25115064
+2012,Asia,Oman,445242865
+2012,Asia,Pakistan,761925598
+2012,Asia,Philippines,1936311380
+2012,Asia,Palestine,12193760
+2012,Asia,Qatar,281744269
+2012,Asia,Saudi Arabia,1867793482
+2012,Asia,Singapore,6179465117
+2012,Asia,Syria,2963284
+2012,Asia,Thailand,5267910583
+2012,Asia,Tajikistan,707438
+2012,Asia,Turkmenistan,560873
+2012,Asia,Timor-Leste,19675699
+2012,Asia,Turkey,952142906
+2012,Asia,Uzbekistan,191486
+2012,Asia,Vietnam,1941260347
+2012,Asia,Chinese Taipei,8426423949
+2012,Asia,Yemen,575954366
+2012,Europe,Albania,3548112
+2012,Europe,Andorra,374239
+2012,Europe,Austria,105562900
+2012,Europe,Belgium,1815992355
+2012,Europe,Bulgaria,120570045
+2012,Europe,Bosnia and Herzegovina,8569451
+2012,Europe,Belarus,3503517
+2012,Europe,Switzerland,888473881
+2012,Europe,Czechia,147564365
+2012,Europe,Germany,2440432749
+2012,Europe,Denmark,154448347
+2012,Europe,Spain,733836099
+2012,Europe,Estonia,11271940
+2012,Europe,Finland,221409204
+2012,Europe,France,1440122049
+2012,Europe,United Kingdom,5519265342
+2012,Europe,Gibraltar,795551
+2012,Europe,Greece,30104631
+2012,Europe,Croatia,4276976
+2012,Europe,Hungary,25593617
+2012,Europe,Ireland,111068596
+2012,Europe,Iceland,4760515
+2012,Europe,Italy,965899788
+2012,Europe,Lithuania,6889076
+2012,Europe,Luxembourg,4264769
+2012,Europe,Latvia,7683138
+2012,Europe,Moldova,487876
+2012,Europe,North Macedonia,3059908
+2012,Europe,Malta,39654961
+2012,Europe,Montenegro,310670
+2012,Europe,Netherlands,2266546493
+2012,Europe,Norway,113830040
+2012,Europe,Poland,149396541
+2012,Europe,Portugal,17018706
+2012,Europe,Romania,28343363
+2012,Europe,Russia,869802740
+2012,Europe,Serbia,12015207
+2012,Europe,Slovakia,50214350
+2012,Europe,Slovenia,13527629
+2012,Europe,Sweden,328884653
+2012,Europe,Ukraine,78980274
+2012,North America,Anguilla,15844
+2012,North America,Antigua and Barbuda,731686
+2012,North America,Bahamas,3099470
+2012,North America,Belize,473744
+2012,North America,Bermuda,974964
+2012,North America,Barbados,1824497
+2012,North America,Canada,2057591183
+2012,North America,Costa Rica,16229041
+2012,North America,Cuba,8385390
+2012,North America,Curaçao,963017
+2012,North America,Cayman Islands,144463
+2012,North America,Dominica,121435
+2012,North America,Dominican Republic,14214883
+2012,North America,Grenada,385693
+2012,North America,Greenland,392570
+2012,North America,Guatemala,16335122
+2012,North America,Honduras,4819400
+2012,North America,Haiti,150864
+2012,North America,Jamaica,13191302
+2012,North America,Saint Kitts and Nevis,283543
+2012,North America,Saint Lucia,1179035
+2012,North America,Mexico,926745477
+2012,North America,Nicaragua,4641587
+2012,North America,Panama,36554164
+2012,North America,El Salvador,29592590
+2012,North America,Saint Pierre and Miquelon,4140
+2012,North America,Trinidad and Tobago,19247143
+2012,North America,United States,9017381212
+2012,North America,Saint Vincent and the Grenadines,1135164
+2012,North America,British Virgin Islands,16616387
+2012,Oceania,American Samoa,7357375
+2012,Oceania,Cook Islands,4951107
+2012,Oceania,Fiji,369569559
+2012,Oceania,Micronesia,11709252
+2012,Oceania,Guam,15491824
+2012,Oceania,Kiribati,26438342
+2012,Oceania,Marshall Islands,1996495
+2012,Oceania,Northern Mariana Islands,1396611
+2012,Oceania,New Caledonia,336709280
+2012,Oceania,Norfolk Island,4744846
+2012,Oceania,Niue,215998
+2012,Oceania,Nauru,16326987
+2012,Oceania,New Zealand,6813468947
+2012,Oceania,Pitcairn Islands,638361
+2012,Oceania,Palau,2948683
+2012,Oceania,Papua New Guinea,2526570817
+2012,Oceania,French Polynesia,63119276
+2012,Oceania,Solomon Islands,135226763
+2012,Oceania,Tonga,12572089
+2012,Oceania,Tuvalu,1005861
+2012,Oceania,Vanuatu,46069632
+2012,Oceania,Wallis and Futuna,2713440
+2012,Oceania,Samoa,27972174
+2012,South America,Argentina,276147564
+2012,South America,Bolivia,4412481
+2012,South America,Brazil,1202828416
+2012,South America,Chile,472510684
+2012,South America,Colombia,58953637
+2012,South America,Ecuador,19133483
+2012,South America,Falkland Islands,84388
+2012,South America,Guyana,2874589
+2012,South America,Peru,154599551
+2012,South America,Paraguay,5618654
+2012,South America,Suriname,2537434
+2012,South America,Uruguay,10995490
+2012,South America,Venezuela,27404114
+2013,Africa,Angola,25015462
+2013,Africa,Burundi,3556184
+2013,Africa,Benin,2486112
+2013,Africa,Burkina Faso,17903617
+2013,Africa,Botswana,17445664
+2013,Africa,Central African Republic,136921
+2013,Africa,Cote d'Ivoire,31348218
+2013,Africa,Cameroon,7295332
+2013,Africa,Democratic Republic of the Congo,19150385
+2013,Africa,Republic of the Congo,4811026
+2013,Africa,Comoros,143502
+2013,Africa,Cape Verde,3272
+2013,Africa,Djibouti,2975793
+2013,Africa,Algeria,12912964
+2013,Africa,Egypt,481326284
+2013,Africa,Eritrea,1028574
+2013,Africa,Ethiopia,21072778
+2013,Africa,Gabon,3646771
+2013,Africa,Ghana,167726438
+2013,Africa,Guinea,10557564
+2013,Africa,Gambia,34185
+2013,Africa,Equatorial Guinea,76905
+2013,Africa,Kenya,120148126
+2013,Africa,Liberia,2787208
+2013,Africa,Libya,11176593
+2013,Africa,Lesotho,42659
+2013,Africa,Morocco,62068144
+2013,Africa,Madagascar,18079412
+2013,Africa,Mali,32964933
+2013,Africa,Mozambique,93316046
+2013,Africa,Mauritania,34235732
+2013,Africa,Mauritius,135651938
+2013,Africa,Malawi,37064152
+2013,Africa,Namibia,21816195
+2013,Africa,Niger,2442981
+2013,Africa,Nigeria,178614888
+2013,Africa,Rwanda,17667069
+2013,Africa,Sudan,571596540
+2013,Africa,Senegal,64403950
+2013,Africa,Saint Helena,172325
+2013,Africa,Sierra Leone,6936466
+2013,Africa,Somalia,126284
+2013,Africa,South Sudan,174956
+2013,Africa,Sao Tome and Principe,101329
+2013,Africa,Eswatini,773036
+2013,Africa,Seychelles,32429421
+2013,Africa,Chad,2337456
+2013,Africa,Togo,3845254
+2013,Africa,Tunisia,9522023
+2013,Africa,Tanzania,149273888
+2013,Africa,Uganda,25514569
+2013,Africa,South Africa,1415330360
+2013,Africa,Zambia,63191806
+2013,Africa,Zimbabwe,32360785
+2013,Asia,Afghanistan,6560742
+2013,Asia,United Arab Emirates,2554743718
+2013,Asia,Armenia,8496071
+2013,Asia,Azerbaijan,15811833
+2013,Asia,Bangladesh,566346060
+2013,Asia,Bahrain,416895913
+2013,Asia,Brunei,53118653
+2013,Asia,Bhutan,159906
+2013,Asia,Cocos (Keeling) Islands,4557402
+2013,Asia,China,90462961515
+2013,Asia,Christmas Island,38466270
+2013,Asia,Cyprus,5526605
+2013,Asia,Georgia,32851780
+2013,Asia,Hong Kong,10439899330
+2013,Asia,Indonesia,4915713013
+2013,Asia,India,12628301373
+2013,Asia,Iran,285798011
+2013,Asia,Iraq,575465341
+2013,Asia,Israel,224480321
+2013,Asia,Jordan,205595743
+2013,Asia,Japan,46688650329
+2013,Asia,Kazakhstan,92395124
+2013,Asia,Kyrgyzstan,2913735
+2013,Asia,Cambodia,33973710
+2013,Asia,South Korea,19704852203
+2013,Asia,Kuwait,550442885
+2013,Asia,Laos,35011625
+2013,Asia,Lebanon,55084472
+2013,Asia,Sri Lanka,213491823
+2013,Asia,Macau,49849625
+2013,Asia,Maldives,34119745
+2013,Asia,Burma,169391920
+2013,Asia,Mongolia,38047441
+2013,Asia,Malaysia,6154426914
+2013,Asia,Nepal,21091228
+2013,Asia,Oman,324143391
+2013,Asia,Pakistan,456959612
+2013,Asia,Philippines,1340932834
+2013,Asia,Palestine,4834924
+2013,Asia,Qatar,564291540
+2013,Asia,Saudi Arabia,2018240741
+2013,Asia,Singapore,5203991827
+2013,Asia,Syria,415292
+2013,Asia,Thailand,5131309159
+2013,Asia,Tajikistan,671518
+2013,Asia,Turkmenistan,920385
+2013,Asia,Timor-Leste,22745404
+2013,Asia,Turkey,1831756890
+2013,Asia,Uzbekistan,2585989
+2013,Asia,Vietnam,2119280229
+2013,Asia,Chinese Taipei,7324216513
+2013,Asia,Yemen,561471865
+2013,Europe,Albania,3103299
+2013,Europe,Andorra,275543
+2013,Europe,Austria,91233075
+2013,Europe,Belgium,1100443346
+2013,Europe,Bulgaria,170676334
+2013,Europe,Bosnia and Herzegovina,11417494
+2013,Europe,Belarus,4844843
+2013,Europe,Switzerland,804053321
+2013,Europe,Czechia,158568180
+2013,Europe,Germany,1901947455
+2013,Europe,Denmark,177306097
+2013,Europe,Spain,525150059
+2013,Europe,Estonia,7994792
+2013,Europe,Finland,136803304
+2013,Europe,France,1425438422
+2013,Europe,United Kingdom,3728053759
+2013,Europe,Gibraltar,1014355
+2013,Europe,Greece,12268364
+2013,Europe,Croatia,2209476
+2013,Europe,Hungary,38858685
+2013,Europe,Ireland,91469213
+2013,Europe,Iceland,3244026
+2013,Europe,Italy,820276277
+2013,Europe,Lithuania,6176909
+2013,Europe,Luxembourg,12431599
+2013,Europe,Latvia,13178287
+2013,Europe,Moldova,2133155
+2013,Europe,North Macedonia,2023864
+2013,Europe,Malta,16805652
+2013,Europe,Montenegro,183721
+2013,Europe,Netherlands,1833024308
+2013,Europe,Norway,138351554
+2013,Europe,Poland,263059159
+2013,Europe,Portugal,24999790
+2013,Europe,Romania,26322674
+2013,Europe,Russia,801171322
+2013,Europe,Serbia,8567335
+2013,Europe,Slovakia,43175710
+2013,Europe,Slovenia,62734800
+2013,Europe,Sweden,358295400
+2013,Europe,Ukraine,50531841
+2013,North America,Antigua and Barbuda,2199533
+2013,North America,Bahamas,4568681
+2013,North America,Belize,332605
+2013,North America,Bermuda,395349
+2013,North America,Barbados,4041530
+2013,North America,Canada,1760939768
+2013,North America,Costa Rica,8168879
+2013,North America,Cuba,2647811
+2013,North America,Cura?ao,898447
+2013,North America,Cayman Islands,199648
+2013,North America,Dominica,130124
+2013,North America,Dominican Republic,14270225
+2013,North America,Grenada,74589
+2013,North America,Greenland,297633
+2013,North America,Guatemala,12606567
+2013,North America,Honduras,1449276
+2013,North America,Haiti,524418
+2013,North America,Jamaica,12241830
+2013,North America,Saint Kitts and Nevis,515434
+2013,North America,Saint Lucia,1638762
+2013,North America,Mexico,476589865
+2013,North America,Montserrat,52
+2013,North America,Nicaragua,2612283
+2013,North America,Panama,56074538
+2013,North America,El Salvador,26572258
+2013,North America,Turks and Caicos Islands,9834
+2013,North America,Trinidad and Tobago,20447440
+2013,North America,United States,8513730246
+2013,North America,Saint Vincent and the Grenadines,1186015
+2013,North America,British Virgin Islands,109275
+2013,Oceania,American Samoa,3988324
+2013,Oceania,Cook Islands,5082780
+2013,Oceania,Fiji,362649858
+2013,Oceania,Micronesia,13738952
+2013,Oceania,Guam,12607239
+2013,Oceania,Kiribati,26059038
+2013,Oceania,Marshall Islands,2586304
+2013,Oceania,Northern Mariana Islands,1947606
+2013,Oceania,New Caledonia,279813138
+2013,Oceania,Norfolk Island,3433893
+2013,Oceania,Niue,394456
+2013,Oceania,Nauru,105053289
+2013,Oceania,New Zealand,6246694589
+2013,Oceania,Pitcairn Islands,1009151
+2013,Oceania,Palau,1218459
+2013,Oceania,Papua New Guinea,2117430586
+2013,Oceania,French Polynesia,54460592
+2013,Oceania,Solomon Islands,132845144
+2013,Oceania,Tonga,11203110
+2013,Oceania,Tuvalu,991745
+2013,Oceania,Vanuatu,42323930
+2013,Oceania,Wallis and Futuna,3082344
+2013,Oceania,Samoa,26052062
+2013,South America,Argentina,195972063
+2013,South America,Bolivia,5324506
+2013,South America,Brazil,1091058883
+2013,South America,Chile,389431013
+2013,South America,Colombia,73064927
+2013,South America,Ecuador,22660639
+2013,South America,Falkland Islands,62033
+2013,South America,Guyana,2624485
+2013,South America,Peru,128232858
+2013,South America,Paraguay,3641667
+2013,South America,Suriname,4699785
+2013,South America,Uruguay,21194676
+2013,South America,Venezuela,13535601
+2014,Africa,Angola,23935816
+2014,Africa,Burundi,1660127
+2014,Africa,Benin,3689829
+2014,Africa,Burkina Faso,11384306
+2014,Africa,Botswana,9435276
+2014,Africa,Central African Republic,688703
+2014,Africa,Cote d'Ivoire,13915422
+2014,Africa,Cameroon,5021787
+2014,Africa,Democratic Republic of the Congo,11093131
+2014,Africa,Republic of the Congo,4515208
+2014,Africa,Comoros,294559
+2014,Africa,Cape Verde,16515
+2014,Africa,Djibouti,2296714
+2014,Africa,Algeria,62878856
+2014,Africa,Egypt,521549999
+2014,Africa,Eritrea,1594025
+2014,Africa,Ethiopia,15828683
+2014,Africa,Gabon,4273736
+2014,Africa,Ghana,60738973
+2014,Africa,Guinea,5915158
+2014,Africa,Gambia,16438
+2014,Africa,Equatorial Guinea,929827
+2014,Africa,Kenya,76876382
+2014,Africa,Liberia,12610421
+2014,Africa,Libya,19069121
+2014,Africa,Lesotho,12263
+2014,Africa,Morocco,86403980
+2014,Africa,Madagascar,17199306
+2014,Africa,Mali,11727770
+2014,Africa,Mozambique,67073199
+2014,Africa,Mauritania,17800445
+2014,Africa,Mauritius,141798599
+2014,Africa,Malawi,19763408
+2014,Africa,Namibia,27476177
+2014,Africa,Niger,2021480
+2014,Africa,Nigeria,214320070
+2014,Africa,Rwanda,4123549
+2014,Africa,Sudan,485002299
+2014,Africa,Senegal,14007311
+2014,Africa,Saint Helena,178881
+2014,Africa,Sierra Leone,16416156
+2014,Africa,Somalia,143274
+2014,Africa,South Sudan,28644
+2014,Africa,Sao Tome and Principe,1662
+2014,Africa,Eswatini,308028
+2014,Africa,Seychelles,11634410
+2014,Africa,Chad,985859
+2014,Africa,Togo,1877434
+2014,Africa,Tunisia,9549843
+2014,Africa,Tanzania,98273991
+2014,Africa,Uganda,20080436
+2014,Africa,South Africa,1155898698
+2014,Africa,Zambia,92361483
+2014,Africa,Zimbabwe,7306781
+2014,Asia,Afghanistan,4419717
+2014,Asia,United Arab Emirates,2568599329
+2014,Asia,Armenia,8194265
+2014,Asia,Azerbaijan,12052704
+2014,Asia,Bangladesh,491661112
+2014,Asia,Bahrain,772841617
+2014,Asia,Brunei,47578444
+2014,Asia,Bhutan,56864
+2014,Asia,Cocos (Keeling) Islands,4413395
+2014,Asia,China,82463685147
+2014,Asia,Christmas Island,30034496
+2014,Asia,Cyprus,14261171
+2014,Asia,Georgia,6308997
+2014,Asia,Hong Kong,3975224325
+2014,Asia,Indonesia,5186275494
+2014,Asia,India,14197500511
+2014,Asia,Iran,445549195
+2014,Asia,Iraq,278350780
+2014,Asia,Israel,213892332
+2014,Asia,Jordan,210450886
+2014,Asia,Japan,44370984655
+2014,Asia,Kazakhstan,72744988
+2014,Asia,Kyrgyzstan,4630968
+2014,Asia,Cambodia,51477918
+2014,Asia,South Korea,18884539552
+2014,Asia,Kuwait,598874593
+2014,Asia,Laos,32972511
+2014,Asia,Lebanon,49004772
+2014,Asia,Sri Lanka,240472477
+2014,Asia,Macau,47562541
+2014,Asia,Maldives,36134234
+2014,Asia,Burma,188572050
+2014,Asia,Mongolia,14970784
+2014,Asia,Malaysia,6992088194
+2014,Asia,Nepal,23964718
+2014,Asia,Oman,312476105
+2014,Asia,Pakistan,418150631
+2014,Asia,Philippines,1431467419
+2014,Asia,Palestine,4124539
+2014,Asia,Qatar,466906114
+2014,Asia,Saudi Arabia,1941914657
+2014,Asia,Singapore,8042671846
+2014,Asia,Syria,454309
+2014,Asia,Thailand,5012704171
+2014,Asia,Tajikistan,969870
+2014,Asia,Turkmenistan,842343
+2014,Asia,Timor-Leste,28623392
+2014,Asia,Turkey,807932999
+2014,Asia,Uzbekistan,1073217
+2014,Asia,Vietnam,2865020183
+2014,Asia,Chinese Taipei,6918109144
+2014,Asia,Yemen,585825316
+2014,Europe,Albania,2088408
+2014,Europe,Andorra,207808
+2014,Europe,Austria,121758887
+2014,Europe,Belgium,1094601345
+2014,Europe,Bulgaria,149104903
+2014,Europe,Bosnia and Herzegovina,6288316
+2014,Europe,Belarus,569470
+2014,Europe,Switzerland,606534686
+2014,Europe,Czechia,147755499
+2014,Europe,Germany,1730048534
+2014,Europe,Denmark,101038888
+2014,Europe,Spain,741673278
+2014,Europe,Estonia,9258664
+2014,Europe,Finland,73091715
+2014,Europe,France,1146844717
+2014,Europe,United Kingdom,3473382945
+2014,Europe,Gibraltar,215390
+2014,Europe,Greece,14902543
+2014,Europe,Croatia,4478113
+2014,Europe,Hungary,28662198
+2014,Europe,Ireland,72577173
+2014,Europe,Iceland,5906699
+2014,Europe,Italy,687662377
+2014,Europe,Lithuania,4885150
+2014,Europe,Luxembourg,12867689
+2014,Europe,Latvia,6845035
+2014,Europe,Moldova,898941
+2014,Europe,North Macedonia,2366645
+2014,Europe,Malta,15482980
+2014,Europe,Montenegro,282272
+2014,Europe,Netherlands,1737387561
+2014,Europe,Norway,226185857
+2014,Europe,Poland,349207526
+2014,Europe,Portugal,20251108
+2014,Europe,Romania,34640557
+2014,Europe,Russia,593225295
+2014,Europe,Serbia,5187202
+2014,Europe,Slovakia,39845897
+2014,Europe,Slovenia,28206400
+2014,Europe,Sweden,313601943
+2014,Europe,Ukraine,132326138
+2014,North America,Anguilla,10937
+2014,North America,Antigua and Barbuda,966851
+2014,North America,Bahamas,5540742
+2014,North America,Belize,829880
+2014,North America,Bermuda,638590
+2014,North America,Barbados,4883341
+2014,North America,Canada,1288096828
+2014,North America,Costa Rica,8372657
+2014,North America,Cuba,4208639
+2014,North America,Curaçao,934468
+2014,North America,Cayman Islands,260511
+2014,North America,Dominica,99561
+2014,North America,Dominican Republic,18808349
+2014,North America,Grenada,110305
+2014,North America,Greenland,11557759
+2014,North America,Guatemala,8664506
+2014,North America,Honduras,3885309
+2014,North America,Haiti,139102
+2014,North America,Jamaica,15212428
+2014,North America,Saint Kitts and Nevis,624899
+2014,North America,Saint Lucia,1310753
+2014,North America,Mexico,480923806
+2014,North America,Nicaragua,3434618
+2014,North America,Panama,40103981
+2014,North America,El Salvador,34651833
+2014,North America,Turks and Caicos Islands,25523
+2014,North America,Trinidad and Tobago,25101037
+2014,North America,United States,10191161975
+2014,North America,Saint Vincent and the Grenadines,946983
+2014,North America,British Virgin Islands,70453
+2014,Oceania,American Samoa,5582333
+2014,Oceania,Cook Islands,5799595
+2014,Oceania,Fiji,377429935
+2014,Oceania,Micronesia,2153112
+2014,Oceania,Guam,9739599
+2014,Oceania,Kiribati,26251029
+2014,Oceania,Marshall Islands,1791770
+2014,Oceania,Northern Mariana Islands,924810
+2014,Oceania,New Caledonia,299290570
+2014,Oceania,Norfolk Island,2516974
+2014,Oceania,Niue,147632
+2014,Oceania,Nauru,64056396
+2014,Oceania,New Zealand,6372601775
+2014,Oceania,Pitcairn Islands,153712
+2014,Oceania,Palau,1473233
+2014,Oceania,Papua New Guinea,1715181748
+2014,Oceania,French Polynesia,49098906
+2014,Oceania,Solomon Islands,124197428
+2014,Oceania,Tonga,12970288
+2014,Oceania,Tuvalu,1149571
+2014,Oceania,Vanuatu,46069563
+2014,Oceania,Wallis and Futuna,2985578
+2014,Oceania,Samoa,32614650
+2014,South America,Argentina,151062263
+2014,South America,Bolivia,7035804
+2014,South America,Brazil,1138195209
+2014,South America,Chile,279249899
+2014,South America,Colombia,56061440
+2014,South America,Ecuador,18847904
+2014,South America,Falkland Islands,1994843
+2014,South America,Guyana,18799736
+2014,South America,Peru,132320701
+2014,South America,Paraguay,1360953
+2014,South America,Suriname,3524261
+2014,South America,Uruguay,12102519
+2014,South America,Venezuela,7004642
+2015,Africa,Angola,11545089
+2015,Africa,Burundi,876351
+2015,Africa,Benin,1450206
+2015,Africa,Burkina Faso,20727025
+2015,Africa,Botswana,19715899
+2015,Africa,Central African Republic,945968
+2015,Africa,Cote d'Ivoire,24268283
+2015,Africa,Cameroon,5274856
+2015,Africa,Democratic Republic of the Congo,62844903
+2015,Africa,Republic of the Congo,5950820
+2015,Africa,Comoros,451297
+2015,Africa,Cape Verde,7007
+2015,Africa,Djibouti,1478694
+2015,Africa,Algeria,17528868
+2015,Africa,Egypt,488640288
+2015,Africa,Eritrea,6037589
+2015,Africa,Ethiopia,10116534
+2015,Africa,Gabon,3496349
+2015,Africa,Ghana,94905598
+2015,Africa,Guinea,3653102
+2015,Africa,Gambia,60160
+2015,Africa,Equatorial Guinea,4225533
+2015,Africa,Kenya,62657677
+2015,Africa,Liberia,1394267
+2015,Africa,Libya,3577456
+2015,Africa,Lesotho,55940
+2015,Africa,Morocco,24787288
+2015,Africa,Madagascar,11964384
+2015,Africa,Mali,10188639
+2015,Africa,Mozambique,104015445
+2015,Africa,Mauritania,6203385
+2015,Africa,Mauritius,115206586
+2015,Africa,Malawi,15922086
+2015,Africa,Namibia,22258042
+2015,Africa,Niger,1155581
+2015,Africa,Nigeria,252217338
+2015,Africa,Rwanda,3724076
+2015,Africa,Sudan,67615758
+2015,Africa,Senegal,20039813
+2015,Africa,Saint Helena,267519
+2015,Africa,Sierra Leone,3634120
+2015,Africa,Somalia,216261
+2015,Africa,South Sudan,255738
+2015,Africa,Eswatini,473764
+2015,Africa,Seychelles,9547202
+2015,Africa,Chad,630293
+2015,Africa,Togo,3211402
+2015,Africa,Tunisia,10514063
+2015,Africa,Tanzania,110630407
+2015,Africa,Uganda,9781254
+2015,Africa,South Africa,1070728509
+2015,Africa,Zambia,45489979
+2015,Africa,Zimbabwe,2114613
+2015,Antarctica,French South Antarctic Territory,29979
+2015,Asia,Afghanistan,1660357
+2015,Asia,United Arab Emirates,2383113203
+2015,Asia,Armenia,4298768
+2015,Asia,Azerbaijan,9290084
+2015,Asia,Bangladesh,575448905
+2015,Asia,Bahrain,730368183
+2015,Asia,Brunei,43689026
+2015,Asia,Bhutan,67303
+2015,Asia,Cocos (Keeling) Islands,4411317
+2015,Asia,China,69441150587
+2015,Asia,Christmas Island,14860133
+2015,Asia,Cyprus,4477664
+2015,Asia,Georgia,5478454
+2015,Asia,Hong Kong,2970927164
+2015,Asia,Indonesia,4410524682
+2015,Asia,India,12983121763
+2015,Asia,Iran,87599656
+2015,Asia,Iraq,27740124
+2015,Asia,Israel,219613769
+2015,Asia,Jordan,180331787
+2015,Asia,Japan,31134088346
+2015,Asia,Kazakhstan,54705288
+2015,Asia,Kyrgyzstan,3056890
+2015,Asia,Cambodia,50804890
+2015,Asia,South Korea,15138536523
+2015,Asia,Kuwait,553088867
+2015,Asia,Laos,21883036
+2015,Asia,Lebanon,50588140
+2015,Asia,Sri Lanka,270475051
+2015,Asia,Macau,36085941
+2015,Asia,Maldives,33135916
+2015,Asia,Burma,152874153
+2015,Asia,Mongolia,11487648
+2015,Asia,Malaysia,4687554863
+2015,Asia,Nepal,35927627
+2015,Asia,Oman,307813281
+2015,Asia,Pakistan,591870825
+2015,Asia,Philippines,1241628787
+2015,Asia,Palestine,5439698
+2015,Asia,Qatar,392687841
+2015,Asia,Saudi Arabia,1681796802
+2015,Asia,Singapore,5350424061
+2015,Asia,Syria,645521
+2015,Asia,Thailand,3589732275
+2015,Asia,Tajikistan,29806
+2015,Asia,Turkmenistan,563978
+2015,Asia,Timor-Leste,18473737
+2015,Asia,Turkey,551053898
+2015,Asia,Uzbekistan,889140
+2015,Asia,Vietnam,2646589489
+2015,Asia,Chinese Taipei,5295245244
+2015,Asia,Yemen,557338846
+2015,Europe,Albania,1761531
+2015,Europe,Andorra,141119
+2015,Europe,Austria,108461173
+2015,Europe,Belgium,796164179
+2015,Europe,Bulgaria,139542436
+2015,Europe,Bosnia and Herzegovina,1897179
+2015,Europe,Belarus,8778563
+2015,Europe,Switzerland,778633427
+2015,Europe,Czechia,138292132
+2015,Europe,Germany,1502787741
+2015,Europe,Denmark,119731618
+2015,Europe,Spain,496265683
+2015,Europe,Estonia,8044921
+2015,Europe,Finland,100732279
+2015,Europe,France,1037046612
+2015,Europe,United Kingdom,2892117654
+2015,Europe,Gibraltar,2033258
+2015,Europe,Greece,12774445
+2015,Europe,Croatia,3516209
+2015,Europe,Hungary,48275175
+2015,Europe,Ireland,73943234
+2015,Europe,Iceland,15626604
+2015,Europe,Italy,583827435
+2015,Europe,Lithuania,7299650
+2015,Europe,Luxembourg,18740433
+2015,Europe,Latvia,4508691
+2015,Europe,Moldova,723918
+2015,Europe,North Macedonia,1740859
+2015,Europe,Malta,36703982
+2015,Europe,Montenegro,308426
+2015,Europe,Netherlands,1748430321
+2015,Europe,Norway,91350890
+2015,Europe,Poland,290572794
+2015,Europe,Portugal,39289461
+2015,Europe,Romania,41399438
+2015,Europe,Russia,506248228
+2015,Europe,Serbia,4904449
+2015,Europe,Slovakia,51146230
+2015,Europe,Slovenia,45902930
+2015,Europe,Sweden,250454781
+2015,Europe,Ukraine,132634675
+2015,North America,Anguilla,2041
+2015,North America,Antigua and Barbuda,638392
+2015,North America,Bahamas,2998415
+2015,North America,Belize,156666
+2015,North America,Bermuda,641822
+2015,North America,Barbados,4065040
+2015,North America,Canada,1386907522
+2015,North America,Costa Rica,9326572
+2015,North America,Cuba,519578
+2015,North America,Cura?ao,770982
+2015,North America,Cayman Islands,199829
+2015,North America,Dominica,378252
+2015,North America,Dominican Republic,14243072
+2015,North America,Grenada,513933
+2015,North America,Greenland,255621
+2015,North America,Guatemala,13591245
+2015,North America,Honduras,4265553
+2015,North America,Haiti,495033
+2015,North America,Jamaica,30119824
+2015,North America,Saint Kitts and Nevis,751518
+2015,North America,Saint Lucia,1306229
+2015,North America,Mexico,464423146
+2015,North America,Montserrat,28989
+2015,North America,Nicaragua,6810243
+2015,North America,Panama,46064750
+2015,North America,El Salvador,30150386
+2015,North America,Turks and Caicos Islands,21014
+2015,North America,Trinidad and Tobago,25394150
+2015,North America,United States,10128152209
+2015,North America,Saint Vincent and the Grenadines,995525
+2015,North America,British Virgin Islands,289746
+2015,Oceania,American Samoa,6921804
+2015,Oceania,Cook Islands,4161620
+2015,Oceania,Fiji,337459203
+2015,Oceania,Micronesia,1946971
+2015,Oceania,Guam,8344862
+2015,Oceania,Kiribati,24207359
+2015,Oceania,Marshall Islands,2218155
+2015,Oceania,Northern Mariana Islands,2133971
+2015,Oceania,New Caledonia,285027176
+2015,Oceania,Norfolk Island,4661441
+2015,Oceania,Niue,91156
+2015,Oceania,Nauru,34239878
+2015,Oceania,New Zealand,5618700044
+2015,Oceania,Pitcairn Islands,42807
+2015,Oceania,Palau,3711458
+2015,Oceania,Papua New Guinea,1140260147
+2015,Oceania,French Polynesia,42937777
+2015,Oceania,Solomon Islands,128049165
+2015,Oceania,Tonga,7916102
+2015,Oceania,Tuvalu,4417730
+2015,Oceania,Vanuatu,41332226
+2015,Oceania,Wallis and Futuna,2350487
+2015,Oceania,Samoa,36155807
+2015,South America,Argentina,271661548
+2015,South America,Bolivia,4102466
+2015,South America,Brazil,993116416
+2015,South America,Chile,267759234
+2015,South America,Colombia,45352689
+2015,South America,Ecuador,19214569
+2015,South America,Falkland Islands,9922486
+2015,South America,Guyana,6616138
+2015,South America,Peru,128566378
+2015,South America,Paraguay,3987479
+2015,South America,Suriname,3943523
+2015,South America,Uruguay,10667507
+2015,South America,Venezuela,23324710
+2016,Africa,Angola,7231795
+2016,Africa,Burundi,561760
+2016,Africa,Benin,3530170
+2016,Africa,Burkina Faso,21000425
+2016,Africa,Botswana,6851170
+2016,Africa,Central African Republic,938108
+2016,Africa,Cote d'Ivoire,33263872
+2016,Africa,Cameroon,8761471
+2016,Africa,Democratic Republic of the Congo,71872519
+2016,Africa,Republic of the Congo,1895209
+2016,Africa,Comoros,6087
+2016,Africa,Cape Verde,331515
+2016,Africa,Djibouti,2930295
+2016,Africa,Algeria,16146784
+2016,Africa,Egypt,369765297
+2016,Africa,Eritrea,1233519
+2016,Africa,Ethiopia,14236908
+2016,Africa,Gabon,1167638
+2016,Africa,Ghana,111964971
+2016,Africa,Guinea,5774413
+2016,Africa,Gambia,42629
+2016,Africa,Guinea-Bissau,220245
+2016,Africa,Equatorial Guinea,48031
+2016,Africa,Kenya,54212287
+2016,Africa,Liberia,873588
+2016,Africa,Libya,1605451
+2016,Africa,Lesotho,1079200
+2016,Africa,Morocco,34562105
+2016,Africa,Madagascar,9743468
+2016,Africa,Mali,24940236
+2016,Africa,Mozambique,340947287
+2016,Africa,Mauritania,9345952
+2016,Africa,Mauritius,84753104
+2016,Africa,Malawi,24978343
+2016,Africa,Namibia,17816483
+2016,Africa,Niger,2271483
+2016,Africa,Nigeria,256485115
+2016,Africa,Rwanda,2784270
+2016,Africa,Sudan,37231992
+2016,Africa,Senegal,18014270
+2016,Africa,Saint Helena,414987
+2016,Africa,Sierra Leone,2474748
+2016,Africa,Somalia,463595
+2016,Africa,South Sudan,165961
+2016,Africa,Sao Tome and Principe,23
+2016,Africa,Eswatini,1111680
+2016,Africa,Seychelles,8027197
+2016,Africa,Chad,1143069
+2016,Africa,Togo,3384704
+2016,Africa,Tunisia,13119670
+2016,Africa,Tanzania,69660539
+2016,Africa,Uganda,5635052
+2016,Africa,South Africa,817286512
+2016,Africa,Zambia,39561173
+2016,Africa,Zimbabwe,9274507
+2016,Asia,Afghanistan,13935082
+2016,Asia,United Arab Emirates,2218496455
+2016,Asia,Armenia,2700716
+2016,Asia,Azerbaijan,7723283
+2016,Asia,Bangladesh,611950706
+2016,Asia,Bahrain,545328685
+2016,Asia,Brunei,40374773
+2016,Asia,Bhutan,67030
+2016,Asia,Cocos (Keeling) Islands,4840301
+2016,Asia,China,66943159392
+2016,Asia,Christmas Island,20306920
+2016,Asia,Cyprus,3569732
+2016,Asia,Georgia,2762015
+2016,Asia,Hong Kong,7024691582
+2016,Asia,Indonesia,4671637317
+2016,Asia,India,12508378490
+2016,Asia,Iran,89209716
+2016,Asia,Iraq,26336487
+2016,Asia,Israel,213379302
+2016,Asia,Jordan,146633741
+2016,Asia,Japan,28310488182
+2016,Asia,Kazakhstan,25622876
+2016,Asia,Kyrgyzstan,2283384
+2016,Asia,Cambodia,41552380
+2016,Asia,South Korea,14184595665
+2016,Asia,Kuwait,490096649
+2016,Asia,Laos,16431994
+2016,Asia,Lebanon,38673782
+2016,Asia,Sri Lanka,194424473
+2016,Asia,Macau,87033848
+2016,Asia,Maldives,35070330
+2016,Asia,Burma,206520778
+2016,Asia,Mongolia,22146263
+2016,Asia,Malaysia,4437384574
+2016,Asia,Nepal,42099377
+2016,Asia,Oman,316934230
+2016,Asia,Pakistan,502953668
+2016,Asia,Philippines,1555056148
+2016,Asia,Palestine,5444208
+2016,Asia,Qatar,489095570
+2016,Asia,Saudi Arabia,1241374657
+2016,Asia,Singapore,4170692586
+2016,Asia,Syria,424357
+2016,Asia,Thailand,3049366560
+2016,Asia,Tajikistan,221746
+2016,Asia,Turkmenistan,981768
+2016,Asia,Timor-Leste,25091892
+2016,Asia,Turkey,703977515
+2016,Asia,Uzbekistan,127952
+2016,Asia,Vietnam,2942856086
+2016,Asia,Chinese Taipei,5674590716
+2016,Asia,Yemen,188653990
+2016,Europe,Albania,1826592
+2016,Europe,Andorra,55224
+2016,Europe,Austria,115885186
+2016,Europe,Belgium,616013555
+2016,Europe,Bulgaria,41176004
+2016,Europe,Bosnia and Herzegovina,26265794
+2016,Europe,Belarus,13310918
+2016,Europe,Switzerland,1484081171
+2016,Europe,Czechia,141741101
+2016,Europe,Germany,1766239060
+2016,Europe,Denmark,119267234
+2016,Europe,Spain,522037134
+2016,Europe,Estonia,8979617
+2016,Europe,Finland,89417484
+2016,Europe,France,1008755358
+2016,Europe,United Kingdom,7327036559
+2016,Europe,Gibraltar,21384
+2016,Europe,Greece,14320911
+2016,Europe,Croatia,11974317
+2016,Europe,Hungary,43198880
+2016,Europe,Ireland,132973137
+2016,Europe,Iceland,137141429
+2016,Europe,Italy,571025044
+2016,Europe,Lithuania,6805283
+2016,Europe,Luxembourg,4406359
+2016,Europe,Latvia,4320698
+2016,Europe,Moldova,697571
+2016,Europe,North Macedonia,3660699
+2016,Europe,Malta,4883068
+2016,Europe,Montenegro,323018
+2016,Europe,Netherlands,1804257619
+2016,Europe,Norway,79710189
+2016,Europe,Poland,304256346
+2016,Europe,Portugal,16503374
+2016,Europe,Romania,42322929
+2016,Europe,Russia,435596547
+2016,Europe,Serbia,4240356
+2016,Europe,Slovakia,30529686
+2016,Europe,Slovenia,53820971
+2016,Europe,Sweden,252240205
+2016,Europe,Ukraine,59859220
+2016,North America,Antigua and Barbuda,904412
+2016,North America,Bahamas,4990820
+2016,North America,Belize,902796
+2016,North America,Bermuda,895151
+2016,North America,Barbados,5704003
+2016,North America,Canada,1643348447
+2016,North America,Costa Rica,12250586
+2016,North America,Cuba,1136969
+2016,North America,Curaçao,1169720
+2016,North America,Cayman Islands,345219
+2016,North America,Dominica,219693
+2016,North America,Dominican Republic,9862319
+2016,North America,Grenada,186847
+2016,North America,Greenland,306155
+2016,North America,Guatemala,5630547
+2016,North America,Honduras,1926229
+2016,North America,Haiti,1494086
+2016,North America,Jamaica,14706880
+2016,North America,Saint Kitts and Nevis,804280
+2016,North America,Saint Lucia,1372992
+2016,North America,Mexico,328899358
+2016,North America,Montserrat,711
+2016,North America,Nicaragua,7878337
+2016,North America,Panama,40695368
+2016,North America,El Salvador,23763044
+2016,North America,Turks and Caicos Islands,4917
+2016,North America,Trinidad and Tobago,18274270
+2016,North America,United States,8568327524
+2016,North America,Saint Vincent and the Grenadines,878532
+2016,North America,British Virgin Islands,978068
+2016,Oceania,American Samoa,6391493
+2016,Oceania,Cook Islands,5302066
+2016,Oceania,Fiji,374678878
+2016,Oceania,Micronesia,6899718
+2016,Oceania,Guam,8857023
+2016,Oceania,Kiribati,29467690
+2016,Oceania,Marshall Islands,2961888
+2016,Oceania,Northern Mariana Islands,3485924
+2016,Oceania,New Caledonia,239100244
+2016,Oceania,Norfolk Island,5873763
+2016,Oceania,Niue,142092
+2016,Oceania,Nauru,28552860
+2016,Oceania,New Zealand,5659437408
+2016,Oceania,Pitcairn Islands,53067
+2016,Oceania,Palau,2255654
+2016,Oceania,Papua New Guinea,1186716327
+2016,Oceania,French Polynesia,41271299
+2016,Oceania,Solomon Islands,91401308
+2016,Oceania,Tonga,13323584
+2016,Oceania,Tuvalu,1739147
+2016,Oceania,Vanuatu,49936364
+2016,Oceania,Wallis and Futuna,2282268
+2016,Oceania,Samoa,36901090
+2016,South America,Argentina,169063842
+2016,South America,Bolivia,5612446
+2016,South America,Brazil,898238928
+2016,South America,Chile,340285690
+2016,South America,Colombia,49529578
+2016,South America,Ecuador,22213765
+2016,South America,Falkland Islands,130210
+2016,South America,Guyana,3762697
+2016,South America,Peru,115790655
+2016,South America,Paraguay,2316388
+2016,South America,Suriname,2050118
+2016,South America,Uruguay,10907108
+2016,South America,Venezuela,9929137
+2017,Africa,Angola,28766449
+2017,Africa,Burundi,297337
+2017,Africa,Benin,2901050
+2017,Africa,Burkina Faso,30521571
+2017,Africa,Botswana,2981362
+2017,Africa,Central African Republic,377197
+2017,Africa,Cote d'Ivoire,49611761
+2017,Africa,Cameroon,6685132
+2017,Africa,Democratic Republic of the Congo,40758382
+2017,Africa,Republic of the Congo,1154606
+2017,Africa,Comoros,7878
+2017,Africa,Cape Verde,32964
+2017,Africa,Djibouti,3177369
+2017,Africa,Algeria,52950923
+2017,Africa,Egypt,441751667
+2017,Africa,Eritrea,1798956
+2017,Africa,Ethiopia,19522320
+2017,Africa,Gabon,1435091
+2017,Africa,Ghana,115296348
+2017,Africa,Guinea,5684796
+2017,Africa,Gambia,41937
+2017,Africa,Equatorial Guinea,312762
+2017,Africa,Kenya,88979207
+2017,Africa,Liberia,845202
+2017,Africa,Libya,730272
+2017,Africa,Lesotho,46825
+2017,Africa,Morocco,43836119
+2017,Africa,Madagascar,15002197
+2017,Africa,Mali,21447908
+2017,Africa,Mozambique,438457274
+2017,Africa,Mauritania,12628072
+2017,Africa,Mauritius,110436352
+2017,Africa,Malawi,13586514
+2017,Africa,Namibia,18061808
+2017,Africa,Niger,3691852
+2017,Africa,Nigeria,171322405
+2017,Africa,Rwanda,2161392
+2017,Africa,Sudan,18377978
+2017,Africa,Senegal,37356996
+2017,Africa,Saint Helena,541619
+2017,Africa,Sierra Leone,3374014
+2017,Africa,Somalia,1069411
+2017,Africa,South Sudan,185498
+2017,Africa,Sao Tome and Principe,191471
+2017,Africa,Eswatini,870313
+2017,Africa,Seychelles,14648174
+2017,Africa,Chad,94996
+2017,Africa,Togo,4119112
+2017,Africa,Tunisia,10734280
+2017,Africa,Tanzania,66255343
+2017,Africa,Uganda,17329726
+2017,Africa,South Africa,1161756280
+2017,Africa,Zambia,43188639
+2017,Africa,Zimbabwe,2153236
+2017,Asia,Afghanistan,8145404
+2017,Asia,United Arab Emirates,2388909635
+2017,Asia,Armenia,4650629
+2017,Asia,Azerbaijan,7012377
+2017,Asia,Bangladesh,911189579
+2017,Asia,Bahrain,545877748
+2017,Asia,Brunei,37866539
+2017,Asia,Bhutan,254826
+2017,Asia,Cocos (Keeling) Islands,4760303
+2017,Asia,China,84716316370
+2017,Asia,Christmas Island,19213411
+2017,Asia,Cyprus,5823991
+2017,Asia,Georgia,9024665
+2017,Asia,Hong Kong,10601239476
+2017,Asia,Indonesia,5571907359
+2017,Asia,India,17977755241
+2017,Asia,Iran,123731505
+2017,Asia,Iraq,66973672
+2017,Asia,Israel,183225804
+2017,Asia,Jordan,120733844
+2017,Asia,Japan,35080840741
+2017,Asia,Kazakhstan,20229631
+2017,Asia,Kyrgyzstan,4425601
+2017,Asia,Cambodia,37843361
+2017,Asia,South Korea,17581183454
+2017,Asia,Kuwait,499506592
+2017,Asia,Laos,21781119
+2017,Asia,Lebanon,47310637
+2017,Asia,Sri Lanka,249791822
+2017,Asia,Macau,91410041
+2017,Asia,Maldives,39225382
+2017,Asia,Burma,230688814
+2017,Asia,Mongolia,33122370
+2017,Asia,Malaysia,5130593793
+2017,Asia,Nepal,47188564
+2017,Asia,Oman,283334904
+2017,Asia,Pakistan,597336129
+2017,Asia,Philippines,2031555131
+2017,Asia,Palestine,6170257
+2017,Asia,Qatar,445130678
+2017,Asia,Saudi Arabia,1053932970
+2017,Asia,Singapore,4286146643
+2017,Asia,Syria,681270
+2017,Asia,Thailand,3542071513
+2017,Asia,Tajikistan,662610
+2017,Asia,Turkmenistan,843748
+2017,Asia,Timor-Leste,23163521
+2017,Asia,Turkey,2809165052
+2017,Asia,Uzbekistan,650143
+2017,Asia,Vietnam,3789580505
+2017,Asia,Chinese Taipei,7670481262
+2017,Asia,Yemen,208026721
+2017,Europe,Albania,3130633
+2017,Europe,Andorra,54928
+2017,Europe,Austria,63536323
+2017,Europe,Belgium,948857293
+2017,Europe,Bulgaria,17999053
+2017,Europe,Bosnia and Herzegovina,1738893
+2017,Europe,Belarus,4661153
+2017,Europe,Switzerland,1855780972
+2017,Europe,Czechia,158919640
+2017,Europe,Germany,1863244928
+2017,Europe,Denmark,214224463
+2017,Europe,Spain,644201298
+2017,Europe,Estonia,9813270
+2017,Europe,Finland,83008755
+2017,Europe,France,1298875849
+2017,Europe,United Kingdom,4948733282
+2017,Europe,Gibraltar,21321
+2017,Europe,Greece,20306056
+2017,Europe,Croatia,5766885
+2017,Europe,Hungary,59856254
+2017,Europe,Ireland,113371067
+2017,Europe,Iceland,211841432
+2017,Europe,Italy,682907685
+2017,Europe,Lithuania,6103052
+2017,Europe,Luxembourg,9610938
+2017,Europe,Latvia,6811660
+2017,Europe,Moldova,927740
+2017,Europe,North Macedonia,3363253
+2017,Europe,Malta,8185932
+2017,Europe,Montenegro,2087084
+2017,Europe,Netherlands,1940357549
+2017,Europe,Norway,115062863
+2017,Europe,Poland,464118600
+2017,Europe,Portugal,46122197
+2017,Europe,Romania,61478693
+2017,Europe,Russia,484101413
+2017,Europe,Serbia,6793572
+2017,Europe,Slovakia,7281939
+2017,Europe,Slovenia,100980771
+2017,Europe,Sweden,287088266
+2017,Europe,Ukraine,80686070
+2017,North America,Antigua and Barbuda,1289376
+2017,North America,Bahamas,8377830
+2017,North America,Belize,223926
+2017,North America,Bermuda,943316
+2017,North America,Barbados,2773411
+2017,North America,Canada,1475516802
+2017,North America,Costa Rica,9081844
+2017,North America,Cuba,684168
+2017,North America,Cura?ao,1092020
+2017,North America,Cayman Islands,930817
+2017,North America,Dominica,47348
+2017,North America,Dominican Republic,18282122
+2017,North America,Grenada,964635
+2017,North America,Greenland,377347
+2017,North America,Guatemala,4409149
+2017,North America,Honduras,3257610
+2017,North America,Haiti,151155
+2017,North America,Jamaica,16896416
+2017,North America,Saint Kitts and Nevis,798844
+2017,North America,Saint Lucia,1539167
+2017,North America,Mexico,184835474
+2017,North America,Montserrat,5397
+2017,North America,Nicaragua,9612026
+2017,North America,Panama,133557406
+2017,North America,El Salvador,16740603
+2017,North America,Turks and Caicos Islands,1541
+2017,North America,Trinidad and Tobago,24383783
+2017,North America,United States,9064951675
+2017,North America,Saint Vincent and the Grenadines,1621232
+2017,North America,British Virgin Islands,125138
+2017,Oceania,American Samoa,7392665
+2017,Oceania,Cook Islands,5786817
+2017,Oceania,Fiji,389961624
+2017,Oceania,Micronesia,2976894
+2017,Oceania,Guam,6874563
+2017,Oceania,Kiribati,23654071
+2017,Oceania,Marshall Islands,2036957
+2017,Oceania,Northern Mariana Islands,1552663
+2017,Oceania,New Caledonia,284212900
+2017,Oceania,Norfolk Island,5150199
+2017,Oceania,Niue,106655
+2017,Oceania,Nauru,23795647
+2017,Oceania,New Zealand,6084536421
+2017,Oceania,Pitcairn Islands,45580
+2017,Oceania,Palau,2247318
+2017,Oceania,Papua New Guinea,1193916746
+2017,Oceania,French Polynesia,45082031
+2017,Oceania,Solomon Islands,104262172
+2017,Oceania,Tonga,10488336
+2017,Oceania,Tuvalu,1906986
+2017,Oceania,Vanuatu,47603894
+2017,Oceania,Wallis and Futuna,2750055
+2017,Oceania,Samoa,37347009
+2017,South America,Argentina,258350413
+2017,South America,Bolivia,5770178
+2017,South America,Brazil,1291405810
+2017,South America,Chile,336488085
+2017,South America,Colombia,55858351
+2017,South America,Ecuador,23077558
+2017,South America,Falkland Islands,187953
+2017,South America,Guyana,6367572
+2017,South America,Peru,148319766
+2017,South America,Paraguay,2734580
+2017,South America,Suriname,4762240
+2017,South America,Uruguay,9008005
+2017,South America,Venezuela,1037226
+2018,Africa,Angola,34360631
+2018,Africa,Burundi,558987
+2018,Africa,Benin,2504153
+2018,Africa,Burkina Faso,30597691
+2018,Africa,Botswana,7157261
+2018,Africa,Central African Republic,874248
+2018,Africa,Cote d'Ivoire,65896474
+2018,Africa,Cameroon,3765620
+2018,Africa,Democratic Republic of the Congo,40821776
+2018,Africa,Republic of the Congo,917291
+2018,Africa,Comoros,47826
+2018,Africa,Cape Verde,1460
+2018,Africa,Djibouti,1818132
+2018,Africa,Algeria,9029630
+2018,Africa,Egypt,484956411
+2018,Africa,Eritrea,7069317
+2018,Africa,Ethiopia,10717768
+2018,Africa,Gabon,1656125
+2018,Africa,Ghana,96235323
+2018,Africa,Guinea,8276734
+2018,Africa,Gambia,45910
+2018,Africa,Equatorial Guinea,673980
+2018,Africa,Kenya,65779336
+2018,Africa,Liberia,1112364
+2018,Africa,Libya,1194506
+2018,Africa,Lesotho,128740
+2018,Africa,Morocco,25334076
+2018,Africa,Madagascar,18461963
+2018,Africa,Mali,22539576
+2018,Africa,Mozambique,528324431
+2018,Africa,Mauritania,10415986
+2018,Africa,Mauritius,106608281
+2018,Africa,Malawi,4570496
+2018,Africa,Namibia,18667888
+2018,Africa,Niger,1356605
+2018,Africa,Nigeria,202106273
+2018,Africa,Rwanda,4855307
+2018,Africa,Sudan,32286666
+2018,Africa,Senegal,20200336
+2018,Africa,Saint Helena,272319
+2018,Africa,Sierra Leone,3333983
+2018,Africa,Somalia,858772
+2018,Africa,South Sudan,42027
+2018,Africa,Sao Tome and Principe,6405
+2018,Africa,Eswatini,346685
+2018,Africa,Seychelles,10407250
+2018,Africa,Chad,111495
+2018,Africa,Togo,9810973
+2018,Africa,Tunisia,6750896
+2018,Africa,Tanzania,63661373
+2018,Africa,Uganda,11474589
+2018,Africa,South Africa,1411481702
+2018,Africa,Zambia,39530902
+2018,Africa,Zimbabwe,4548941
+2018,Asia,Afghanistan,4856968
+2018,Asia,United Arab Emirates,2592210633
+2018,Asia,Armenia,3205691
+2018,Asia,Azerbaijan,5658220
+2018,Asia,Bangladesh,672992476
+2018,Asia,Bahrain,895771759
+2018,Asia,Brunei,44363591
+2018,Asia,Bhutan,231144
+2018,Asia,Cocos (Keeling) Islands,3326286
+2018,Asia,China,87853494425
+2018,Asia,Christmas Island,21296107
+2018,Asia,Cyprus,4911449
+2018,Asia,Georgia,24153930
+2018,Asia,Hong Kong,8672970679
+2018,Asia,Indonesia,5201915028
+2018,Asia,India,18514641910
+2018,Asia,Iran,131307015
+2018,Asia,Iraq,204404367
+2018,Asia,Israel,226742356
+2018,Asia,Jordan,110479091
+2018,Asia,Japan,41207511428
+2018,Asia,Kazakhstan,26058374
+2018,Asia,Kyrgyzstan,1807542
+2018,Asia,Cambodia,57739274
+2018,Asia,South Korea,19250022929
+2018,Asia,Kuwait,350916731
+2018,Asia,Laos,33110616
+2018,Asia,Lebanon,35268398
+2018,Asia,Sri Lanka,185298035
+2018,Asia,Macau,96939211
+2018,Asia,Maldives,35875804
+2018,Asia,Burma,137196202
+2018,Asia,Mongolia,41097405
+2018,Asia,Malaysia,6099665877
+2018,Asia,Nepal,59136064
+2018,Asia,Oman,271144248
+2018,Asia,Pakistan,373827523
+2018,Asia,Philippines,1809991580
+2018,Asia,Palestine,8849990
+2018,Asia,Qatar,604557744
+2018,Asia,Saudi Arabia,627485901
+2018,Asia,Singapore,5738101746
+2018,Asia,Syria,458860
+2018,Asia,Thailand,5245163252
+2018,Asia,Tajikistan,1824936
+2018,Asia,Turkmenistan,310708
+2018,Asia,Timor-Leste,12206376
+2018,Asia,Turkey,541892986
+2018,Asia,Uzbekistan,414187
+2018,Asia,Vietnam,4062052162
+2018,Asia,Chinese Taipei,8819639578
+2018,Asia,Yemen,219019266
+2018,Europe,Albania,2313944
+2018,Europe,Andorra,14838
+2018,Europe,Austria,128424308
+2018,Europe,Belgium,787636997
+2018,Europe,Bulgaria,90630003
+2018,Europe,Bosnia and Herzegovina,1565360
+2018,Europe,Belarus,8006636
+2018,Europe,Switzerland,1236798117
+2018,Europe,Czechia,177524669
+2018,Europe,Germany,2101767048
+2018,Europe,Denmark,76993130
+2018,Europe,Spain,697890421
+2018,Europe,Estonia,8999345
+2018,Europe,Finland,88979104
+2018,Europe,France,1253708165
+2018,Europe,United Kingdom,3682132393
+2018,Europe,Gibraltar,65252
+2018,Europe,Greece,25612879
+2018,Europe,Croatia,3314809
+2018,Europe,Hungary,56419098
+2018,Europe,Ireland,108407342
+2018,Europe,Iceland,307739523
+2018,Europe,Italy,732309416
+2018,Europe,Lithuania,4895752
+2018,Europe,Luxembourg,48642685
+2018,Europe,Latvia,11281408
+2018,Europe,Moldova,933123
+2018,Europe,North Macedonia,4222156
+2018,Europe,Malta,5692028
+2018,Europe,Montenegro,485206
+2018,Europe,Netherlands,2356548163
+2018,Europe,Norway,247042050
+2018,Europe,Poland,434722853
+2018,Europe,Portugal,37493159
+2018,Europe,Romania,37702083
+2018,Europe,Russia,600301219
+2018,Europe,Serbia,6493300
+2018,Europe,Slovakia,8256587
+2018,Europe,Slovenia,38623805
+2018,Europe,Sweden,348299857
+2018,Europe,Ukraine,56521638
+2018,North America,Anguilla,4403
+2018,North America,Antigua and Barbuda,1999542
+2018,North America,Bahamas,4368971
+2018,North America,Belize,1666003
+2018,North America,Bermuda,534343
+2018,North America,Barbados,2357786
+2018,North America,Canada,1512114222
+2018,North America,Costa Rica,9486685
+2018,North America,Cuba,491219
+2018,North America,Cura?ao,753072
+2018,North America,Cayman Islands,363634
+2018,North America,Dominica,567396
+2018,North America,Dominican Republic,20132046
+2018,North America,Grenada,314659
+2018,North America,Greenland,516276
+2018,North America,Guatemala,6189699
+2018,North America,Honduras,2533599
+2018,North America,Haiti,548136
+2018,North America,Jamaica,24444149
+2018,North America,Saint Kitts and Nevis,744179
+2018,North America,Saint Lucia,2321230
+2018,North America,Mexico,185251182
+2018,North America,Montserrat,1318195
+2018,North America,Nicaragua,6795453
+2018,North America,Panama,119611087
+2018,North America,El Salvador,24973983
+2018,North America,Turks and Caicos Islands,38034
+2018,North America,Trinidad and Tobago,19090286
+2018,North America,United States,9831627412
+2018,North America,Saint Vincent and the Grenadines,3491549
+2018,North America,British Virgin Islands,275057
+2018,Oceania,American Samoa,6395270
+2018,Oceania,Cook Islands,8575856
+2018,Oceania,Fiji,394499733
+2018,Oceania,Micronesia,4609241
+2018,Oceania,Guam,8237374
+2018,Oceania,Kiribati,19449441
+2018,Oceania,Marshall Islands,2480206
+2018,Oceania,Northern Mariana Islands,3254013
+2018,Oceania,New Caledonia,303708840
+2018,Oceania,Norfolk Island,4952522
+2018,Oceania,Niue,197181
+2018,Oceania,Nauru,26058679
+2018,Oceania,New Zealand,5915788818
+2018,Oceania,Pitcairn Islands,176947
+2018,Oceania,Palau,1903927
+2018,Oceania,Papua New Guinea,1379104794
+2018,Oceania,French Polynesia,48940432
+2018,Oceania,Solomon Islands,100628229
+2018,Oceania,Tonga,15065913
+2018,Oceania,Tuvalu,1200429
+2018,Oceania,Vanuatu,53416078
+2018,Oceania,Wallis and Futuna,2513392
+2018,Oceania,Samoa,40670497
+2018,South America,Argentina,332298064
+2018,South America,Bolivia,5937928
+2018,South America,Brazil,1124459928
+2018,South America,Chile,241195801
+2018,South America,Colombia,52005818
+2018,South America,Ecuador,22587519
+2018,South America,Falkland Islands,79270
+2018,South America,Guyana,5167873
+2018,South America,Peru,108958410
+2018,South America,Paraguay,1570150
+2018,South America,Suriname,4947041
+2018,South America,Uruguay,10159882
+2018,South America,Venezuela,1864432
+2019,Africa,Angola,5929066
+2019,Africa,Burundi,394404
+2019,Africa,Benin,1418646
+2019,Africa,Burkina Faso,33146905
+2019,Africa,Botswana,13470523
+2019,Africa,Central African Republic,1499441
+2019,Africa,Cote d'Ivoire,64539521
+2019,Africa,Cameroon,897195
+2019,Africa,Democratic Republic of the Congo,47554128
+2019,Africa,Republic of the Congo,250504
+2019,Africa,Comoros,5282
+2019,Africa,Cape Verde,550863
+2019,Africa,Djibouti,1220256
+2019,Africa,Algeria,2974677
+2019,Africa,Egypt,378853921
+2019,Africa,Eritrea,3578734
+2019,Africa,Ethiopia,5254116
+2019,Africa,Gabon,1402965
+2019,Africa,Ghana,79655544
+2019,Africa,Guinea,3465399
+2019,Africa,Gambia,144141
+2019,Africa,Guinea-Bissau,85399
+2019,Africa,Equatorial Guinea,350881
+2019,Africa,Kenya,65552499
+2019,Africa,Liberia,359429
+2019,Africa,Libya,2198356
+2019,Africa,Lesotho,38889
+2019,Africa,Morocco,24016184
+2019,Africa,Madagascar,12651926
+2019,Africa,Mali,19682009
+2019,Africa,Mozambique,381987933
+2019,Africa,Mauritania,7178003
+2019,Africa,Mauritius,80755051
+2019,Africa,Malawi,7728409
+2019,Africa,Namibia,16247355
+2019,Africa,Niger,1189132
+2019,Africa,Nigeria,78463228
+2019,Africa,Rwanda,1885109
+2019,Africa,Sudan,7045164
+2019,Africa,Senegal,22986211
+2019,Africa,Saint Helena,510867
+2019,Africa,Sierra Leone,932393
+2019,Africa,Somalia,1135482
+2019,Africa,South Sudan,78489
+2019,Africa,Eswatini,420623
+2019,Africa,Seychelles,12426804
+2019,Africa,Chad,29592
+2019,Africa,Togo,5260601
+2019,Africa,Tunisia,6177557
+2019,Africa,Tanzania,149161734
+2019,Africa,Uganda,9117153
+2019,Africa,South Africa,1168583443
+2019,Africa,Zambia,33983798
+2019,Africa,Zimbabwe,4002164
+2019,Asia,Afghanistan,814275
+2019,Asia,United Arab Emirates,3152452934
+2019,Asia,Armenia,2931699
+2019,Asia,Azerbaijan,295308222
+2019,Asia,Bangladesh,634892701
+2019,Asia,Bahrain,864815749
+2019,Asia,Brunei,42234254
+2019,Asia,Bhutan,208903
+2019,Asia,Cocos (Keeling) Islands,4306013
+2019,Asia,China,1.10576E+11
+2019,Asia,Christmas Island,17190738
+2019,Asia,Cyprus,9421985
+2019,Asia,Georgia,76806343
+2019,Asia,Hong Kong,5764975990
+2019,Asia,Indonesia,4535081360
+2019,Asia,India,15106208297
+2019,Asia,Iran,40989645
+2019,Asia,Iraq,16511014
+2019,Asia,Israel,228967274
+2019,Asia,Jordan,112136344
+2019,Asia,Japan,41664273163
+2019,Asia,Kazakhstan,49053261
+2019,Asia,Kyrgyzstan,4722337
+2019,Asia,Cambodia,88104430
+2019,Asia,South Korea,18835723872
+2019,Asia,Kuwait,362701375
+2019,Asia,Laos,39753012
+2019,Asia,Lebanon,32592625
+2019,Asia,Sri Lanka,172017939
+2019,Asia,Macau,61396014
+2019,Asia,Maldives,43511144
+2019,Asia,Burma,107267777
+2019,Asia,Mongolia,44882782
+2019,Asia,Malaysia,6405108587
+2019,Asia,Nepal,51113388
+2019,Asia,Oman,275862634
+2019,Asia,Pakistan,256369033
+2019,Asia,Philippines,2086345783
+2019,Asia,Palestine,6863335
+2019,Asia,Qatar,544023482
+2019,Asia,Saudi Arabia,694754292
+2019,Asia,Singapore,6233665832
+2019,Asia,Syria,110779
+2019,Asia,Thailand,3063137444
+2019,Asia,Tajikistan,395324
+2019,Asia,Turkmenistan,37094
+2019,Asia,Timor-Leste,19060610
+2019,Asia,Turkey,530885897
+2019,Asia,Uzbekistan,3259049
+2019,Asia,Vietnam,4665433710
+2019,Asia,Chinese Taipei,9138809868
+2019,Asia,Yemen,298486299
+2019,Europe,Albania,1404958
+2019,Europe,Austria,101313976
+2019,Europe,Belgium,870389204
+2019,Europe,Bulgaria,22176002
+2019,Europe,Bosnia and Herzegovina,1033786
+2019,Europe,Belarus,9836765
+2019,Europe,Switzerland,1345700261
+2019,Europe,Czechia,135500661
+2019,Europe,Germany,1989940201
+2019,Europe,Denmark,161501778
+2019,Europe,Spain,483138483
+2019,Europe,Estonia,19535490
+2019,Europe,Finland,68430328
+2019,Europe,France,1256161992
+2019,Europe,United Kingdom,10575283315
+2019,Europe,Gibraltar,87491
+2019,Europe,Greece,27692124
+2019,Europe,Croatia,5867954
+2019,Europe,Hungary,54333606
+2019,Europe,Ireland,87920858
+2019,Europe,Iceland,185181493
+2019,Europe,Italy,581706196
+2019,Europe,Lithuania,5385911
+2019,Europe,Luxembourg,18901057
+2019,Europe,Latvia,10630848
+2019,Europe,Moldova,890132
+2019,Europe,North Macedonia,3864790
+2019,Europe,Malta,85033885
+2019,Europe,Montenegro,1217386
+2019,Europe,Netherlands,2173983562
+2019,Europe,Norway,246242593
+2019,Europe,Poland,495266865
+2019,Europe,Portugal,13974351
+2019,Europe,Romania,24846919
+2019,Europe,Russia,656202830
+2019,Europe,Serbia,6605811
+2019,Europe,Slovakia,11378121
+2019,Europe,Slovenia,78642018
+2019,Europe,Sweden,386331652
+2019,Europe,Ukraine,86095049
+2019,North America,Antigua and Barbuda,1485630
+2019,North America,Bahamas,3709222
+2019,North America,Belize,388613
+2019,North America,Bermuda,1561772
+2019,North America,Barbados,2892987
+2019,North America,Canada,1654088952
+2019,North America,Costa Rica,6777788
+2019,North America,Cuba,413374
+2019,North America,Cura?ao,296871
+2019,North America,Cayman Islands,691809
+2019,North America,Dominica,267912
+2019,North America,Dominican Republic,18467245
+2019,North America,Grenada,519714
+2019,North America,Guatemala,3892191
+2019,North America,Honduras,3424466
+2019,North America,Haiti,165214
+2019,North America,Jamaica,27617679
+2019,North America,Saint Kitts and Nevis,731720
+2019,North America,Saint Lucia,2077162
+2019,North America,Mexico,218526774
+2019,North America,Montserrat,525
+2019,North America,Nicaragua,7163522
+2019,North America,Panama,75253463
+2019,North America,El Salvador,10209734
+2019,North America,Saint Pierre and Miquelon,2984
+2019,North America,Turks and Caicos Islands,4851
+2019,North America,Trinidad and Tobago,37307624
+2019,North America,United States,10295400417
+2019,North America,Saint Vincent and the Grenadines,2556003
+2019,North America,British Virgin Islands,47833
+2019,Oceania,American Samoa,7487676
+2019,Oceania,Cook Islands,6762049
+2019,Oceania,Fiji,363330342
+2019,Oceania,Micronesia,3341670
+2019,Oceania,Guam,6503805
+2019,Oceania,Kiribati,12024445
+2019,Oceania,Marshall Islands,3633720
+2019,Oceania,Northern Mariana Islands,1273351
+2019,Oceania,New Caledonia,303852864
+2019,Oceania,Norfolk Island,4404107
+2019,Oceania,Niue,580875
+2019,Oceania,Nauru,24625158
+2019,Oceania,New Zealand,5959807295
+2019,Oceania,Pitcairn Islands,176545
+2019,Oceania,Palau,893170
+2019,Oceania,Papua New Guinea,1344150560
+2019,Oceania,French Polynesia,45646941
+2019,Oceania,Solomon Islands,53177092
+2019,Oceania,Tonga,12787340
+2019,Oceania,Tuvalu,2214283
+2019,Oceania,Vanuatu,47844439
+2019,Oceania,Wallis and Futuna,2588379
+2019,Oceania,Samoa,46970623
+2019,South America,Argentina,235660060
+2019,South America,Bolivia,17009484
+2019,South America,Brazil,907198437
+2019,South America,Chile,225005775
+2019,South America,Colombia,40942599
+2019,South America,Ecuador,15815887
+2019,South America,Falkland Islands,169885
+2019,South America,Guyana,6601968
+2019,South America,Peru,117488117
+2019,South America,Paraguay,1178567
+2019,South America,Suriname,18180100
+2019,South America,Uruguay,20611571
+2019,South America,Venezuela,4417994
+2020,Africa,Angola,6356486
+2020,Africa,Burundi,877318
+2020,Africa,Benin,785330
+2020,Africa,Burkina Faso,17910335
+2020,Africa,Botswana,18192388
+2020,Africa,Central African Republic,610700
+2020,Africa,Cote d'Ivoire,44422774
+2020,Africa,Cameroon,475560
+2020,Africa,Democratic Republic of the Congo,45047233
+2020,Africa,Republic of the Congo,12812042
+2020,Africa,Comoros,64278
+2020,Africa,Cape Verde,9619
+2020,Africa,Djibouti,1158023
+2020,Africa,Algeria,3487590
+2020,Africa,Egypt,330911617
+2020,Africa,Eritrea,1861537
+2020,Africa,Ethiopia,12565530
+2020,Africa,Gabon,18646406
+2020,Africa,Ghana,65719379
+2020,Africa,Guinea,5042509
+2020,Africa,Gambia,108284
+2020,Africa,Guinea-Bissau,18369
+2020,Africa,Equatorial Guinea,612338
+2020,Africa,Kenya,67393210
+2020,Africa,Liberia,404845
+2020,Africa,Libya,434250
+2020,Africa,Lesotho,231222
+2020,Africa,Morocco,23553655
+2020,Africa,Madagascar,11887840
+2020,Africa,Mali,19175863
+2020,Africa,Mozambique,194110421
+2020,Africa,Mauritania,9725517
+2020,Africa,Mauritius,70291769
+2020,Africa,Malawi,926849
+2020,Africa,Namibia,17158283
+2020,Africa,Niger,599762
+2020,Africa,Nigeria,37634494
+2020,Africa,Rwanda,3473107
+2020,Africa,Sudan,4876304
+2020,Africa,Senegal,21552585
+2020,Africa,Saint Helena,93669
+2020,Africa,Sierra Leone,1192216
+2020,Africa,Somalia,507519
+2020,Africa,South Sudan,359885
+2020,Africa,Sao Tome and Principe,9892
+2020,Africa,Eswatini,421688
+2020,Africa,Seychelles,7313716
+2020,Africa,Chad,259460
+2020,Africa,Togo,3793852
+2020,Africa,Tunisia,5412240
+2020,Africa,Tanzania,44551319
+2020,Africa,Uganda,9336486
+2020,Africa,South Africa,731328321
+2020,Africa,Zambia,24111369
+2020,Africa,Zimbabwe,4278293
+2020,Asia,Afghanistan,21835597
+2020,Asia,United Arab Emirates,1781822742
+2020,Asia,Armenia,2443174
+2020,Asia,Azerbaijan,4692335
+2020,Asia,Bangladesh,556667997
+2020,Asia,Bahrain,774699419
+2020,Asia,Brunei,164276972
+2020,Asia,Bhutan,996074
+2020,Asia,Cocos (Keeling) Islands,3947520
+2020,Asia,China,1.02842E+11
+2020,Asia,Christmas Island,13858290
+2020,Asia,Cyprus,6031613
+2020,Asia,Georgia,17345045
+2020,Asia,Hong Kong,5196358488
+2020,Asia,Indonesia,3886308613
+2020,Asia,India,11328379327
+2020,Asia,Iran,10422805
+2020,Asia,Iraq,16194046
+2020,Asia,Israel,201797008
+2020,Asia,Jordan,88599596
+2020,Asia,Japan,31682448632
+2020,Asia,Kazakhstan,25392821
+2020,Asia,Kyrgyzstan,11212457
+2020,Asia,Cambodia,120984534
+2020,Asia,South Korea,17150871317
+2020,Asia,Kuwait,295642554
+2020,Asia,Laos,57522565
+2020,Asia,Lebanon,18964291
+2020,Asia,Sri Lanka,139579591
+2020,Asia,Macau,51252484
+2020,Asia,Maldives,11211289
+2020,Asia,Burma,142978462
+2020,Asia,Mongolia,38603346
+2020,Asia,Malaysia,4792312259
+2020,Asia,Nepal,52600818
+2020,Asia,Oman,254862841
+2020,Asia,Pakistan,385205658
+2020,Asia,Philippines,1232801522
+2020,Asia,Palestine,4433456
+2020,Asia,Qatar,450692521
+2020,Asia,Saudi Arabia,698751303
+2020,Asia,Singapore,7107615556
+2020,Asia,Syria,384575
+2020,Asia,Thailand,2827720827
+2020,Asia,Tajikistan,139858
+2020,Asia,Turkmenistan,33687
+2020,Asia,Timor-Leste,40745662
+2020,Asia,Turkey,485467729
+2020,Asia,Uzbekistan,15345216
+2020,Asia,Vietnam,4960261286
+2020,Asia,Chinese Taipei,7117872929
+2020,Asia,Yemen,131592103
+2020,Europe,Albania,918217
+2020,Europe,Austria,116565521
+2020,Europe,Belgium,683482707
+2020,Europe,Bulgaria,77660639
+2020,Europe,Bosnia and Herzegovina,857645
+2020,Europe,Belarus,9238561
+2020,Europe,Switzerland,1875346409
+2020,Europe,Czechia,104852763
+2020,Europe,Germany,1990400664
+2020,Europe,Denmark,84728594
+2020,Europe,Spain,414542095
+2020,Europe,Estonia,14629557
+2020,Europe,Finland,165453189
+2020,Europe,France,1003017353
+2020,Europe,United Kingdom,10037413440
+2020,Europe,Gibraltar,477859
+2020,Europe,Greece,40412736
+2020,Europe,Croatia,11567466
+2020,Europe,Hungary,50672072
+2020,Europe,Ireland,93144690
+2020,Europe,Iceland,42390256
+2020,Europe,Italy,424036406
+2020,Europe,Lithuania,8363674
+2020,Europe,Luxembourg,7552254
+2020,Europe,Latvia,12430787
+2020,Europe,Moldova,1226363
+2020,Europe,North Macedonia,3751531
+2020,Europe,Malta,12042119
+2020,Europe,Montenegro,642158
+2020,Europe,Netherlands,1759829807
+2020,Europe,Norway,157793070
+2020,Europe,Poland,278939502
+2020,Europe,Portugal,14290391
+2020,Europe,Romania,24636605
+2020,Europe,Russia,584091972
+2020,Europe,Serbia,8623953
+2020,Europe,Slovakia,10311290
+2020,Europe,Slovenia,56133088
+2020,Europe,Sweden,254254387
+2020,Europe,Ukraine,25011226
+2020,North America,Anguilla,22295
+2020,North America,Antigua and Barbuda,466678
+2020,North America,Bahamas,3716486
+2020,North America,Belize,219422
+2020,North America,Bermuda,1743589
+2020,North America,Barbados,4486933
+2020,North America,Canada,1719183853
+2020,North America,Costa Rica,9256290
+2020,North America,Cuba,185036
+2020,North America,Curaçao,582190
+2020,North America,Cayman Islands,717845
+2020,North America,Dominica,151278
+2020,North America,Dominican Republic,18865735
+2020,North America,Grenada,469649
+2020,North America,Guatemala,3347968
+2020,North America,Honduras,3036685
+2020,North America,Haiti,505101
+2020,North America,Jamaica,20988449
+2020,North America,Saint Kitts and Nevis,887384
+2020,North America,Saint Lucia,1874695
+2020,North America,Mexico,160157993
+2020,North America,Montserrat,718
+2020,North America,Nicaragua,8257085
+2020,North America,Panama,47991080
+2020,North America,El Salvador,6614041
+2020,North America,Turks and Caicos Islands,3711
+2020,North America,Trinidad and Tobago,23436481
+2020,North America,United States,12325138607
+2020,North America,Saint Vincent and the Grenadines,2681417
+2020,North America,British Virgin Islands,179808
+2020,Oceania,American Samoa,7843216
+2020,Oceania,Cook Islands,5226550
+2020,Oceania,Fiji,282061450
+2020,Oceania,Micronesia,4244864
+2020,Oceania,Guam,7727337
+2020,Oceania,Kiribati,19059396
+2020,Oceania,Marshall Islands,3885038
+2020,Oceania,Northern Mariana Islands,1297396
+2020,Oceania,New Caledonia,259876665
+2020,Oceania,Norfolk Island,9038916
+2020,Oceania,Niue,257123
+2020,Oceania,Nauru,26458259
+2020,Oceania,New Zealand,5601126194
+2020,Oceania,Palau,998165
+2020,Oceania,Papua New Guinea,1125849104
+2020,Oceania,French Polynesia,43823777
+2020,Oceania,Solomon Islands,45780281
+2020,Oceania,Tonga,12918574
+2020,Oceania,Tuvalu,1423744
+2020,Oceania,Vanuatu,38525878
+2020,Oceania,Wallis and Futuna,2095141
+2020,Oceania,Samoa,19106026
+2020,South America,Argentina,141452946
+2020,South America,Bolivia,4615575
+2020,South America,Brazil,551773435
+2020,South America,Chile,286198474
+2020,South America,Colombia,40838085
+2020,South America,Ecuador,13774181
+2020,South America,Falkland Islands,34977
+2020,South America,Guyana,7260504
+2020,South America,Peru,128574196
+2020,South America,Paraguay,2049210
+2020,South America,Suriname,12812258
+2020,South America,Uruguay,9176146
+2020,South America,Venezuela,1976579
+2021,Africa,Angola,4109697
+2021,Africa,Burundi,5189453
+2021,Africa,Benin,1912437
+2021,Africa,Burkina Faso,21807669
+2021,Africa,Botswana,12312249
+2021,Africa,Central African Republic,148144
+2021,Africa,Cote d'Ivoire,34742340
+2021,Africa,Cameroon,582668
+2021,Africa,Democratic Republic of the Congo,8455986
+2021,Africa,Republic of the Congo,1376409
+2021,Africa,Cape Verde,8380776
+2021,Africa,Djibouti,9112786
+2021,Africa,Algeria,4042318
+2021,Africa,Egypt,594275324
+2021,Africa,Eritrea,2891858
+2021,Africa,Ethiopia,23508111
+2021,Africa,Gabon,2824516
+2021,Africa,Ghana,86719031
+2021,Africa,Guinea,4811595
+2021,Africa,Gambia,171472
+2021,Africa,Guinea-Bissau,2419
+2021,Africa,Equatorial Guinea,471589
+2021,Africa,Kenya,215487940
+2021,Africa,Liberia,1053332
+2021,Africa,Libya,1972151
+2021,Africa,Lesotho,23917
+2021,Africa,Morocco,32014970
+2021,Africa,Madagascar,35520191
+2021,Africa,Mali,5749183
+2021,Africa,Mozambique,137302648
+2021,Africa,Mauritania,8037772
+2021,Africa,Mauritius,64910164
+2021,Africa,Malawi,32104931
+2021,Africa,Namibia,14158170
+2021,Africa,Niger,2785339
+2021,Africa,Nigeria,63210970
+2021,Africa,Rwanda,14077531
+2021,Africa,Sudan,55062167
+2021,Africa,Senegal,35005160
+2021,Africa,Sierra Leone,2541487
+2021,Africa,Somalia,1024876
+2021,Africa,South Sudan,416817
+2021,Africa,Eswatini,8506214
+2021,Africa,Seychelles,4634099
+2021,Africa,Chad,127259
+2021,Africa,Togo,2890857
+2021,Africa,Tunisia,6125801
+2021,Africa,Tanzania,100143136
+2021,Africa,Uganda,34617282
+2021,Africa,South Africa,1183627705
+2021,Africa,Zambia,51193287
+2021,Africa,Zimbabwe,20880373
+2021,Asia,Afghanistan,344175
+2021,Asia,United Arab Emirates,2122905911
+2021,Asia,Armenia,6418559
+2021,Asia,Azerbaijan,27240656
+2021,Asia,Bangladesh,1056527889
+2021,Asia,Bahrain,214148637
+2021,Asia,Brunei,394858416
+2021,Asia,Bhutan,3306979
+2021,Asia,Cocos (Keeling) Islands,6981745
+2021,Asia,China,1.38249E+11
+2021,Asia,Christmas Island,21241661
+2021,Asia,Cyprus,7326864
+2021,Asia,Georgia,2624765
+2021,Asia,Hong Kong,4754077178
+2021,Asia,Indonesia,7801339337
+2021,Asia,India,20547601632
+2021,Asia,Iran,51028596
+2021,Asia,Iraq,23496602
+2021,Asia,Israel,249950020
+2021,Asia,Jordan,77206078
+2021,Asia,Japan,46971001478
+2021,Asia,Kazakhstan,12725728
+2021,Asia,Kyrgyzstan,5935063
+2021,Asia,Cambodia,132062523
+2021,Asia,South Korea,29440688812
+2021,Asia,Kuwait,429561465
+2021,Asia,Laos,77379164
+2021,Asia,Lebanon,20292337
+2021,Asia,Sri Lanka,320829563
+2021,Asia,Macau,62076133
+2021,Asia,Maldives,42162478
+2021,Asia,Burma,143049884
+2021,Asia,Mongolia,38375228
+2021,Asia,Malaysia,5383337486
+2021,Asia,Nepal,213365719
+2021,Asia,Oman,338787450
+2021,Asia,Pakistan,758340744
+2021,Asia,Philippines,1951582155
+2021,Asia,Palestine,6646984
+2021,Asia,Qatar,338588178
+2021,Asia,Saudi Arabia,1510608039
+2021,Asia,Singapore,7506500544
+2021,Asia,Syria,39094
+2021,Asia,Thailand,5329649045
+2021,Asia,Tajikistan,350253
+2021,Asia,Timor-Leste,74727683
+2021,Asia,Turkey,1032581642
+2021,Asia,Uzbekistan,7469956
+2021,Asia,Vietnam,7736623044
+2021,Asia,Chinese Taipei,13235590980
+2021,Asia,Yemen,259035404
+2021,Europe,Albania,1344002
+2021,Europe,Austria,106036177
+2021,Europe,Belgium,946010123
+2021,Europe,Bulgaria,112147468
+2021,Europe,Bosnia and Herzegovina,30955272
+2021,Europe,Belarus,5348400
+2021,Europe,Switzerland,1610475404
+2021,Europe,Czechia,131023584
+2021,Europe,Germany,2242133161
+2021,Europe,Denmark,199251766
+2021,Europe,Spain,639685507
+2021,Europe,Estonia,8714526
+2021,Europe,Finland,214510297
+2021,Europe,France,1098761323
+2021,Europe,United Kingdom,3265811166
+2021,Europe,Gibraltar,89976
+2021,Europe,Greece,45977835
+2021,Europe,Croatia,67907451
+2021,Europe,Hungary,74248761
+2021,Europe,Ireland,94018185
+2021,Europe,Iceland,93564632
+2021,Europe,Italy,774297871
+2021,Europe,Lithuania,14568294
+2021,Europe,Luxembourg,6158540
+2021,Europe,Latvia,35846522
+2021,Europe,Moldova,2687499
+2021,Europe,North Macedonia,3646867
+2021,Europe,Malta,7082625
+2021,Europe,Montenegro,19824999
+2021,Europe,Netherlands,2567812186
+2021,Europe,Norway,226018793
+2021,Europe,Poland,460148324
+2021,Europe,Portugal,34651373
+2021,Europe,Romania,49912392
+2021,Europe,Russia,782139409
+2021,Europe,Serbia,21051459
+2021,Europe,Slovakia,34824870
+2021,Europe,Slovenia,145179955
+2021,Europe,Sweden,253712580
+2021,Europe,Ukraine,146842893
+2021,North America,Anguilla,10893
+2021,North America,Antigua and Barbuda,464089
+2021,North America,Bahamas,4399409
+2021,North America,Belize,422205
+2021,North America,Bermuda,516859
+2021,North America,Barbados,3369122
+2021,North America,Canada,1717390813
+2021,North America,Costa Rica,10455436
+2021,North America,Cuba,398573
+2021,North America,Curaçao,293148
+2021,North America,Cayman Islands,1091161
+2021,North America,Dominica,5484
+2021,North America,Dominican Republic,24168434
+2021,North America,Grenada,239073
+2021,North America,Guatemala,5471676
+2021,North America,Honduras,3879760
+2021,North America,Haiti,194338
+2021,North America,Jamaica,33007187
+2021,North America,Saint Kitts and Nevis,399247
+2021,North America,Saint Lucia,1084850
+2021,North America,Mexico,230136261
+2021,North America,Nicaragua,18791052
+2021,North America,Panama,55153842
+2021,North America,El Salvador,9762537
+2021,North America,Turks and Caicos Islands,32043
+2021,North America,Trinidad and Tobago,191216172
+2021,North America,United States,11116097544
+2021,North America,Saint Vincent and the Grenadines,286008
+2021,North America,British Virgin Islands,55010
+2021,Oceania,American Samoa,7955183
+2021,Oceania,Cook Islands,5425280
+2021,Oceania,Fiji,336053788
+2021,Oceania,Micronesia,4265926
+2021,Oceania,Guam,6587011
+2021,Oceania,Kiribati,19175874
+2021,Oceania,Marshall Islands,1975118
+2021,Oceania,Northern Mariana Islands,1115092
+2021,Oceania,New Caledonia,309514265
+2021,Oceania,Norfolk Island,6970694
+2021,Oceania,Niue,128564
+2021,Oceania,Nauru,33895494
+2021,Oceania,New Zealand,6704405447
+2021,Oceania,Pitcairn Islands,9183
+2021,Oceania,Palau,1223601
+2021,Oceania,Papua New Guinea,1129192277
+2021,Oceania,French Polynesia,36647742
+2021,Oceania,Solomon Islands,54324122
+2021,Oceania,Tonga,16160432
+2021,Oceania,Tuvalu,2590156
+2021,Oceania,Vanuatu,53931616
+2021,Oceania,Wallis and Futuna,2531770
+2021,Oceania,Samoa,37614409
+2021,South America,Argentina,364123255
+2021,South America,Bolivia,3687311
+2021,South America,Brazil,1284138046
+2021,South America,Chile,398577530
+2021,South America,Colombia,52662456
+2021,South America,Ecuador,33865956
+2021,South America,Falkland Islands,115558
+2021,South America,Guyana,7704706
+2021,South America,Peru,150935479
+2021,South America,Paraguay,2352932
+2021,South America,Suriname,10863270
+2021,South America,Uruguay,80749686
+2021,South America,Venezuela,8031559
