@@ -1,1 +1,103 @@
-
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height": 400,
+    "title": {
+      "text": "Top 20 Countries",
+      "color": "black",
+      "fontStyle": "italic",
+      "fontSize": 18
+    },
+    "background": "white",
+    "data": {"url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/3179a2data/top_countries_by_year.csv"},
+    "params": [
+      {
+        "name": "Continent_selection",
+        "bind": {
+          "input": "select",
+          "options": [null, "Europe", "North America", "Asia", "Oceania", "Africa", "South America"],
+          "labels": ["Show All", "Europe", "North America", "Asia", "Oceania", "Africa", "South America"],
+          "name": "Continent Selection: "
+        }
+      },
+      {
+        "name": "Year_selection",
+        "value": 2012,
+        "bind": {
+          "input": "range",
+          "min": 2012,
+          "max": 2021,
+          "step": 1,
+          "name": "Year Selection: "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+      },
+      {"filter": " datum.Year == Year_selection"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Import Trade Value",
+        "type": "quantitative",
+        "title": "Import Trade Value (US$)",
+        "axis": {
+          "grid": false,
+          "labels": false,
+          "ticks": false,
+          "titleColor": "black"
+        },
+        "scale": {"type": "log", "domain": [1000000000, 100000000000]}
+      },
+      "y": {
+        "field": "Export Trade Value",
+        "type": "quantitative",
+        "title": "Export Trade Value (US$)",
+        "axis": {
+          "grid": false,
+          "labels": false,
+          "ticks": false,
+          "titleColor": "black"
+        },
+        "scale": {"type": "log", "domain": [100000000, 300000000000]}
+      }
+    },
+    "layer": [
+      {
+        "mark": "circle",
+        "encoding": {
+          "size": {
+            "field": "Export Trade Value",
+            "type": "quantitative",
+            "scale": {
+              "type": "threshold",
+              "domain": [2000000000, 3000000000, 4000000000, 8000000000, 1000000000],
+              "range": [100, 200, 400, 800, 1600]
+            },
+            "legend": null
+          },
+          "color": {
+            "field": "Continent",
+            "type": "nominal",
+            "scale": {
+              "domain": ["Europe", "North America", "Asia", "Oceania", "Africa", "South America"],
+              "range": ["blue", "green", "yellow", "#d79350", "#735192", "orange"]
+            },
+            "legend": {
+              "orient": "top-left",
+              "titleColor": "black",
+              "labelColor": "black"
+            }
+          },
+          "opacity": {"value": 0.6},
+          "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {"field": "Export Trade Value", "type": "quantitative"},
+            {"field": "Import Trade Value", "type": "quantitative"}
+          ]
+        }
+      }
+    ]
+  }
