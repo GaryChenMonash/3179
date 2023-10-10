@@ -1,0 +1,91 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Import by Continent (2012 to 2021)",
+      "color": "black",
+      "fontStyle": "italic",
+      "fontSize": 18
+    },
+    "width": 700,
+    "height": 600,
+    "data": {"url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/3179a2data/total_import_value_by_continent_year.csv"},
+    "transform": [
+      {
+        "calculate": "round(datum.ImportTradeValue/1000000)",
+        "as": "Import Value (US$ Billion)"
+      }
+    ],
+    "encoding": {
+      "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+      "y": {
+        "field": "Import Value (US$ Billion)",
+        "type": "quantitative",
+        "title": "Import Value (US$ Billion)",
+        "axis": {"grid": false, "ticks": false, "labels": false}
+      },
+      "color": {
+        "condition": {"param": "hover", "field": "Continent", "type": "nominal"},
+        "value": "grey"
+      },
+      "opacity": {"condition": {"param": "hover", "value": 1}, "value": 0.2}
+    },
+    "layer": [
+      {
+        "description": "transparent layer to make it easier to trigger selection",
+        "params": [
+          {
+            "name": "hover",
+            "value": [{"Continent": "Asia"}],
+            "select": {"type": "point", "fields": ["Continent"], "on": "mouseover"}
+          }
+        ],
+        "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+      },
+      {"mark": "line"},
+      {
+        "encoding": {
+          "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year",
+            "axis": {"titleColor": "black", "labelColor": "black"},
+            "scale": {"type": "point"}
+          },
+          "y": {
+            "field": "Import Value (US$ Billion)",
+            "type": "quantitative",
+            "title": "Import Value (US$ Billion)",
+            "axis": {"grid": false, "titleColor": "black", "labelColor": "black"},
+            "scale": {"type": "log"}
+          },
+          "color": {
+            "field": "Continent",
+            "type": "nominal",
+            "scale": {
+              "range": [
+                "#e41a1c",
+                "blue",
+                "#e08537",
+                "#7aa6dcff",
+                "green",
+                "#f39b7fff",
+                "#3b3b3bff"
+              ]
+            },
+            "legend": {
+              "titleColor": "black",
+              "orient": "top-left",
+              "labelColor": "black"
+            }
+          },
+          "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Continent", "type": "nominal"},
+            {"field": "Import Value (US$ Billion)", "type": "quantitative"}
+          ]
+        },
+        "layer": [{"mark": {"type": "circle"}}]
+      }
+    ],
+    "config": {"view": {"stroke": null}}
+  }
