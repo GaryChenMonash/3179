@@ -29,7 +29,8 @@
       {
         "mark": "bar",
         "encoding": {
-          "x": {"aggregate": "sum", "field": "Trade Value", "title": "Import Value ($Billion)"},
+          "x": {"aggregate": "sum", "field": "Trade Value", "title": "Import Value ($Billion)",
+          "axis": {"grid": false, "titleColor": "black", "labelColor": "black"}},
           "y": {"field": "HS4", "title": "Product Category"},
           "color": {"field": "HS4", "type": "nominal"},
           "tooltip": [
