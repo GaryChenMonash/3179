@@ -1,0 +1,58 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height": 400,
+    "title": {
+      "text": "Import of Precious Metals and Stones (2012 and 2021)",
+      "color": "black",
+      "fontStyle": "italic",
+      "fontSize": 18
+    },
+    "background": "white",
+    "data": {
+      "url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/3179a2data/Metal.csv",
+      "format": {"type": "csv"}
+    },
+    "params": [
+      {
+        "name": "Selected_Year",
+        "value": 2012,
+        "bind": {
+          "input": "select",
+          "options": [2012, 2021],
+          "name": "Year: "
+        }
+      }
+    ],
+    "transform": [{"filter": "datum.Year == Selected_Year"}],
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": {
+          "x": {"aggregate": "sum", "field": "Trade Value", "title": "Import Value ($Billion)"},
+          "y": {"field": "HS4", "title": "Product Category"},
+          "color": {"field": "HS4", "type": "nominal"},
+          "tooltip": [
+            {
+              "field": "HS4",
+              "type": "nominal",
+              "title": "Product Category: "
+            },
+            {
+              "field": "Trade Value",
+              "type": "quantitative",
+              "title": "Import Value ($Billion)"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {"type": "text", "align": "left", "baseline": "middle"},
+        "encoding": {
+          "x": {"aggregate": "sum", "field": "Trade Value", "type": "quantitative", "title": "Import Value ($Billion)"},
+          "y": {"field": "HS4", "type": "nominal", "title": "Product Category"},
+          "text": {"aggregate": "sum", "field": "Trade Value", "type": "quantitative"}
+        }
+      }
+    ]
+  }
