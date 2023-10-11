@@ -1,5 +1,5 @@
-body{
-	background-color: #f2f0f0;
+body {
+    background-color: #f2f0f0;
 }
 p{
 	color: black;
@@ -15,6 +15,10 @@ p{
     padding: 10px;
 }
 
+.graph-section {
+    text-align: center;
+    padding: 20px; /* Adjust the spacing as needed */
+}
 /* Define colors */
 .blue {
     color: blue;
