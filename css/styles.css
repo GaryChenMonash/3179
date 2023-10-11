@@ -1,12 +1,22 @@
 body {
 	background-color: #f2f0f0;
 	margin: 0;
-	padding: 0; 
+	padding: 0;
+	font-family: Arial, sans-serif;
+	text-align: center;
   }
 p{
 	color: black;
 	font-family: 'Arial' ;
 }
+
+header h1 {
+	text-align: center;
+  }
+  
+  h2 {
+	text-align: center;
+  }
 
 .arial-font {
     font-family: Arial, sans-serif;
@@ -20,20 +30,26 @@ p{
 
 #report-container {
 	background-color: white;
-	margin: 20px; /* Add margin for the white page */
-	padding: 20px; /* Add padding for the white page */
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to the white page */
+	margin: 20px;
+	padding: 20px;
+	text-align: left;
   }
 
 .graph-container {
-    border: 1px solid #000;
-    padding: 10px;
-}
+	display: flex;
+	justify-content: center;
+  }
 
 .graph-section {
     text-align: center;
     padding: 20px; /* Adjust the spacing as needed */
 }
+
+
+.explanation {
+	text-align: center;
+  }
+  
 /* Define colors */
 .blue {
     color: blue;
