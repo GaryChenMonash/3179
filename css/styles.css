@@ -1,24 +1,38 @@
-#import_2012 {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+body{
+	background-color: #f2f0f0;
 }
-#import_2021 {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+p{
+	color: black;
+	font-family: 'Arial' ;
 }
-#Top_20_countires {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+
+.arial-font {
+    font-family: Arial, sans-serif;
+}
+
+.graph-container {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+/* Define colors */
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+/* Style for value text (you can customize this as needed) */
+.value-text {
+    font-family: Arial, sans-serif;
 }
