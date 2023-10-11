@@ -10,9 +10,79 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 </head>
 <body>
+  <div id="report-container">
+    <header>
+      <h1>FIT3179 Visualisation Assignment 2 - Australia's Import Status</h1>
+    </header>
   
+    <section id="introduction">
+      <h2>By Guangqiang Chen 30314909</h2>
+      <p class="arial-font">
+        Australia****
+      </p>
+    </section>
+  
+    <!-- Graph Section 1 -->
+    <section class="graph-section">
+      <h2>Graph 1</h2>
+      <div class="graph-container">
+        <div class="graph-column">
+          <div id="import_2012"></div>
+        </div>
+        <div class="graph-column">
+          <div id="import_2021"></div>
+        </div>
+      </div>
+      <p class="explanation">
+        Explanation for Graph 1
+      </p>
+    </section>
+  
+    <!-- Graph Section 2 -->
+    <section class="graph-section">
+      <h2>Graph 2</h2>
+      <div class="graph-container">
+        <div id="Top_20_countires"></div>
+      </div>
+      <p class="explanation">
+        Explanation for Graph 2
+      </p>
+    </section>
+  
+    <!-- Graph Section 3 -->
+    <section class="graph-section">
+      <h2>Graph 3</h2>
+      <div class="graph-container">
+        <div id="Import_By_Continent"></div>
+      </div>
+      <p class="explanation">
+        Explanation for Graph 3
+      </p>
+    </section>
+  
+    <!-- Graph Section 4 -->
+    <section class="graph-section">
+      <h2>Graph 4</h2>
+      <div class="graph-container">
         <div id="Pie_2012"></div>
         <div id="Pie_2021"></div>
+      </div>
+      <p class="explanation">
+        Explanation for Graph 4
+      </p>
+    </section>
+  
+    <!-- Graph Section 5 -->
+    <section class="graph-section">
+      <h2>Graph 5</h2>
+      <div class="graph-container">
+        <div id="Metals_2012_to_2021"></div>
+      </div>
+      <p class="explanation">
+        Explanation for Graph 5
+      </p>
+    </section>
+  </div>
 <script>
     // Embed import_2012 map
     vegaEmbed('#import_2012', 'js/Import_2012.json').then(function(result) {
@@ -46,7 +116,6 @@
 </script>
 </body>
 </html>
-
 
 
 

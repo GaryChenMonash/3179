@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 300,
+    "title": {
+      "text": "Australia's Import by category (2012)",
+      "anchor": "middle",
+      "color": "black",
+      "fontStyle": "italic",
+      "fontSize": 18
+    },
+    "background": "white",
+    "data": {"url": "https://raw.githubusercontent.com/GaryChenMonash/3179/main/3179a2data/top_sections_2012.csv"},
+    "transform": [
+      {
+        "window": [{"op": "sum", "field": "TradeValue", "as": "TotalValue"}],
+        "frame": [null, null]
+      },
+      {
+        "calculate": "round(datum.TradeValue/datum.TotalValue * 100)",
+        "as": "Percentage"
+      },
+      {"calculate": "round(datum.TradeValue/1000000000)", "as": "Import Value ($Billion)"}
+    ],
+    "encoding": {
+      "theta": {
+        "field": "Import Value ($Billion)",
+        "type": "quantitative",
+        "stack": true
+      },
+      "color": {
+        "field": "Section",
+        "type": "nominal",
+        "legend": {
+          "labelLimit": 350,
+          "labelFontSize": 12,
+          "offset": 50,
+          "titleColor": "black",
+          "labelColor": "black"
+        }
+      },
+      "tooltip": [
+        {"field": "Section", "type": "nominal", "title": "Product Section"},
+        {
+          "field": "Import Value ($Billion)",
+          "type": "nominal",
+          "title": "Import Value ($Billion)"
+        },
+        {"field": "Percentage", "type": "nominal", "title": "Percentage"}
+      ]
+    },
+    "layer": [
+      {"mark": {"type": "arc", "innerRadius": 100, "outerRadius": 150}},
+      {
+        "mark": {
+          "type": "text",
+          "fill": "black",
+          "align": "center",
+          "baseline": "middle",
+          "dx": 4,
+          "dy": -28,
+          "fontSize": 34
+        },
+        "encoding": {"text": {"value": "235"}}
+      },
+      {
+        "mark": {
+          "type": "text",
+          "fill": "black",
+          "align": "center",
+          "baseline": "middle",
+          "dy": 18,
+          "fontSize": 34
+        },
+        "encoding": {"text": {"value": "Billion"}}
+      }
+    ]
+  }
