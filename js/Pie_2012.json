@@ -31,6 +31,20 @@
       "color": {
         "field": "Section",
         "type": "nominal",
+        "scale": {
+          "range": [
+            "#008000",
+            "blue",
+            "#e08537",
+            "#7aa6dcff",
+            "#7f6000",
+            "#f39b7fff",
+            "#3b3b3bff",
+            "purple",
+            "orange",
+            "#008080"
+          ]
+        },
         "legend": {
           "labelLimit": 350,
           "labelFontSize": 12,
