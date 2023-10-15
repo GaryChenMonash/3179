@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 700,
   "height": 450,
   "title": "Australian Import Status 2012",
   "projection": {"type": "equalEarth"},
