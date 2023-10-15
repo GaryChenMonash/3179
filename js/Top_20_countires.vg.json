@@ -83,7 +83,7 @@
             "type": "nominal",
             "scale": {
               "domain": ["Europe", "North America", "Asia", "Oceania", "Africa", "South America"],
-              "range": ["blue", "green", "yellow", "#d79350", "#735192", "orange"]
+              "range": ["blue", "green", "#7f6000", "#d79350", "#735192", "orange"]
             },
             "legend": {
               "orient": "top-left",
